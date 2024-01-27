@@ -350,7 +350,7 @@ CBPC VRSex grants a number of bonuses if you have sex with a higher level charac
 
 When trading, consider which merchants to buy from and sell to.
 - Specialists (blacksmiths, alchemists, court mages) will have better prices than generalist shops.
-- Merchants will offer you discounts if you belong to the same guild, and further discounts if you are guild leader.
+- Merchants will offer you discounts if you belong to the same guild, and further discounts if you are guild leader. You will also receive another discount if you are Thane of the city.
 - In big cities like Windhelm or Solitude, you will sell for more but also have to buy for more. The reverse is true in small towns like Riverwood.
 - You will have better prices with merchants of the same race, while merchants of hostile races (such as an argonian and a dunmer, or an altmer and a stormcloak nord) will have worse prices.
 - You will have better prices if the merchant is on friendly terms with you, which can usually be accomplished by completing a task for them. This will also override the "racism" factor entirely.
