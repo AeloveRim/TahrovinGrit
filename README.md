@@ -230,7 +230,7 @@ You can technically also use the Knockout Arts power instead of Incubus Arts, bu
 The third option, Molag Bal's Subjugation, is easier to use than both Incubus Arts and Knockout Arts but is entirely unavailable as a starting character and requires investing into Illusion.
 
 ## Playing a mage
-Being able to use magic is not a given in Tahrovin Grit and will require an investment. Your magicka regeneration in combat is faster, but your starting magicka is only 50 and you do not start with any spells (other than the various debug spells) unless you are one of the races granted a bonus spell (Breton, Dunmer, Altmer). Furthermore, you will find that spell books are prohibitively expensive for a starting character.
+Being able to use magic is not a given in Tahrovin Grit and will require an investment. Your magicka regeneration in combat is faster, but your starting magicka is only 50 and you do not start with any spells (other than the various debug spells) unless you are one of the races granted a bonus spell (Breton, Dunmer, Altmer). Furthermore, you will find that spell books are prohibitively expensive for a starting character. You will still find spell books in the world as usual, but it may be tempting to sell them instead of learning the spell they contain.
 
 Rather than spell books, your main way to acquire new spells will be through Spell Forging. To do so, you must first read the [Spellforge](https://www.nexusmods.com/skyrimspecialedition/mods/46482) book in your inventory. Let the spell library initialize, it will then display a menu. Pick the "Conjure Forge" option to learn the spell and close the menu.
 
