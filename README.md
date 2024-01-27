@@ -170,7 +170,7 @@ Before starting, you can make choices in the Optional sections of the list, colo
 - Smalls : Adds underwear to bodies when you loot them, doesn't work well with Quickloot.
 - Shadow of Skyrim - SL on defeat : Defeat system. Starts a sexlab scene whenever you are defeated by an enemy. It is integrated into the Shadow of Skyrim Nemesis system, but there's no configuration available to customize it.
 - Yamete Redux : Alternative defeat system. It will require manual MCM configuration and is known to be finnicky.
-- CBPC VRSex - Sexlab Solutions Override : Will use the CBPC VRSex instead of Sexlab to handle any sex interactions started by the Sexlab Solutions mod between the player and a female NPC, as long as the player is not in a victim context.
+- CBPC VRSex - Sexlab Solutions Override : Will use the CBPC VRSex system instead of Sexlab to handle any sex interactions started by the Sexlab Solutions mod between the player and a female NPC, as long as the player is not in a victim context.
 - Dragonborn speaks naturally : Grants the ability to use voice commands to do things such as equip spells and items, shout, or select dialogue options. Requires Windows speech recognition.
 -  Occlusion FPS Boost : Should give you an FPS boost when outside, at the cost of some rare flickering in specific places (detected on some setups in the Windhelm bridge and on the College's bridge)
 -  Daedric Bitchs : Optional followers 
