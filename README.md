@@ -232,9 +232,9 @@ Being able to use magic is not a given in Tahrovin Grit and will require an inve
 
 Rather than spell books, your main way to acquire new spells will be through Spell Forging. To do so, you must first read the Spellforge book in your inventory. Let the spell library initialize, it will then display a menu. Pick the "Conjure Forge" option to learn the spell and close the menu.
 
-To get started as a mage, I recommend doing the following : 
+If you want to start the game as a mage right away, I recommend doing the following : 
 - Increase your magicka by picking the Mage, Lady or Atronach standing stones, otherwise you'll lack the magicka to even forge novice spells at first. As a more temporary measure, Julianos' shrine can also help. Note that Altmer already start with an extra 50 magicka and may not necessarily need to do that.
-- Increase one of your racial magic skills to at least 20 at Sera the Trainer if possible. You should have enough gold and TP to raise a skill from 10 to 20 right away. This will allow you to learn a novice spell through Spellforge immediately. If you don't have any racial magic skills or you'd rather use a different skill, you'll have to skip this for now.
+- Increase one of your racial magic skills to at least 20 at Sera the Trainer if possible. You should have enough gold and TP to raise a skill from 10 to 20 right away. This will allow you to learn a novice spell through Spellforge immediately. If you don't have any racial magic skills or you'd rather use a different skill, you'll have to skip the rest of this process and instead save your gold to buy a spell book at a merchant.
 
 Cast the "Conjure Spellforge" spell on the ground to summon the forge and select the bottom node to access the forge's main functions. Select the Resin Experimentation option.
 ![SpellforgeMain](img/SpellforgeMain.jpeg)
@@ -250,7 +250,7 @@ Once set, use the bottom node again and select Spell Forging > Synthesize spell 
 
 You will automatically equip an "enkindle" ability that you can channel to drain your magicka to power the forge. If you have enough magicka (60 for a novice spell) and channeled the enkindle ability to completion, the forging process is finished and you will receive the spell. Don't worry, if you fail you can retrieve your school theses and resin by interacting with the forge (nothing is lost).
 
-As you play, keep raising your magic skills to gain more school theses and learn more spells. You can also create Arcane Resin by experimenting with ingredients in the spellforge, which will work the same as School Theses but allow you to learn spells from any school. Read the spellforge mod description (https://www.nexusmods.com/skyrimspecialedition/mods/46482) for more details. Creating Arcane Resin through Spellforge usually requires powerful ingredients such as Nirnroot. However, some recipes work with large quantities of mundane ingredients (such as 10 units of Bone Meals). If you try to experiment with the wrong quantities, you will still learn the recipe for later, with the exact quantity needed.
+As you play, keep raising your magic skills to gain more school theses and learn more spells. You can also create Arcane Resin by experimenting with ingredients in the spellforge, which will work the same as School Theses but allow you to learn spells from any school. Read the spellforge mod description (https://www.nexusmods.com/skyrimspecialedition/mods/46482) for more details. Creating Arcane Resin through Spellforge usually requires powerful ingredients such as Nirnroot. However, some recipes work with large quantities of mundane ingredients (such as 10 units of Bone Meals). If you try to experiment with the wrong quantities, you will still learn the recipe for later, with the exact quantity needed. If you have a decently valuable alchemy ingredient, try to throw it in the Spellforge and see what happens !
 
 
 Other changes compared to base Tahrovin : 
@@ -262,7 +262,7 @@ Other changes compared to base Tahrovin :
 - Various other small additions : Immersive Bend Will, Perception, NPCs react to Necromancy/Invisibility.
 
 ## Playing a warrior
-The main change you will notice as a warrior is that vanilla blocking has been removed entirely in favor of Pseudo-physical parry. To block with a shield, you no longer simply have to hold the shield in front of you. You must intercept the enemy's attack with it, while holding the trigger button on the hand holding the shield. If you have a timed-block perk, you can trigger it by pressing the trigger to block at the moment of impact. Weapons no longer block at all, and can only use the Pseudo-physical parry system by intercepting the enemy's attack. By moving the weapon or shield fast enough as you parry or block, you may stagger the enemy. Both blocking and parrying will cost Stamina instead of Health. If you are out of Stamina, weapon parrying becomes impossible and shield blocking starts to use Health instead.
+The main change you will notice as a warrior is that vanilla blocking has been removed entirely in favor of Pseudo-physical parry. To block with a shield, you no longer simply have to hold the shield in front of you. You must intercept the enemy's attack with it, while holding the trigger button on the hand holding the shield. If you have a timed-block perk, you can trigger it by pressing the trigger to block at the moment of impact. Weapons no longer block at all, they can only use the Pseudo-physical parry system by intercepting the enemy's attack. By moving the weapon or shield fast enough as you parry or block, you may even stagger the enemy. Both blocking and parrying will cost Stamina instead of Health. If you are out of Stamina, weapon parrying becomes impossible and shield blocking starts to use Health instead.
 
 You will also be able to block and parry arrows and spell projectiles by intercepting them physically. While holding trigger, projectiles will be slowed at the cost of a bit of magicka, making that process easier.
 
@@ -276,6 +276,11 @@ Finally, you will no longer be able to do power attacks unless you are able to p
 
 ## Playing a thief
 There's not a lot of changes on that end. Pickpocketing and lockpicking are harder than usual if you're unskilled, but easier if you do raise your skills. Breaking your lockpick will throw you out of the lockpicking minigame and force you to start from scratch - make sure to check for patrolling guards ! Otherwise, it's just the usual Vokriinator stuff.
+
+## Leveling
+Instead of increasing your level by raising your skills, the Experience mod lets you increase your level as you adventure, exploring Skyrim and accomplishing quests. The leveling curve has been modified to provide a slower-paced experience.
+
+Levels and skills have not been decoupled however. As explained earlier, you will be able to train your skills as you wish each level. Almost every NPC can now train you in a few skills as long as you have the gold and the Training Points. Skyrim's regular skill leveling is not gone, but is now much slower. Your skills start at 5. You may be able to progress through the lower levels of skill entirely on your own, but you will have a hard time going further without seeking training.
 
 ## Crafting and Economy
 You may notice that the only crafting workstation you are able to use from the start is the Tanning Rack. Otherwise, you will need to increase your skills first. Smithing workstations require a smithing skill of 15. Alchemy and Enchanting workstations require the skill at 20.
