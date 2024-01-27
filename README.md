@@ -186,7 +186,7 @@ The MCM setup is *mostly* automated and will run on its own after you've finishe
 
 When you are done, save your game, go back to the main menu, then load that save so the last few mods can load properly.
 
-There are optional configuration changes you may wish to make in the Mod Configuration Menu :
+That done, there are optional configuration changes you may wish to make in the Mod Configuration Menu :
 
 - The Better Resources Warning mod will alert you if your stats (Health, Magicka, Stamina) are low by giving the screen a shade of red, blue, or black and white. You can activate one or all of them as you wish. For example, to activate the Health warning go to Better Resources Warning > Health Options and set Max Modifier Magnitude on the top-right to 0.5
 ![BetterResourcesMCM](img/BetterResources.jpeg)
