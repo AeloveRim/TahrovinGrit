@@ -164,7 +164,7 @@ Refer to the [Skyrim VR Upscaler](#skyrim-vr-upscaler-selection) section.
 
 ## Optional mods
 
-Before starting, you can make choices in the Optional sections of the list, colored in Orange in MO2. Pick a set of controller bindings, a defeat mod, a Vampire Lord body mod depending on your character's gender, and any of the other optional mods that interest you. Make sure to do so **before you start a new game** as changing your mods mid-save can be a bad idea : 
+Before starting, you can make choices in the Optional sections of the list, colored in Orange in MO2. Pick a set of controller bindings, a defeat mod, a Vampire Lord body mod depending on your character's gender, and any of the other optional mods that interest you. Make sure to do so **before you start a new game** as enabling or disabling some of these mods mid-save can be a bad idea : 
 
 - Quickloot VR : Adds a looting menu similar to the one present in FO4
 - Smalls : Adds underwear to bodies when you loot them, doesn't work well with Quickloot.
