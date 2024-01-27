@@ -1,4 +1,4 @@
 # Changelog
 
-## Tahrovin V1.0
+## Tahrovin Grit V1.0
 Initial release
