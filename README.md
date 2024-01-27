@@ -270,7 +270,7 @@ You will also be able to block and parry arrows and spell projectiles by interce
 
 The settings for pseudo-physical parry are less forgiving than the ones in base Tahrovin. You will not be able to parry by simply standing still, make sure to move your weapon as you intercept.
 
-The Stamina costs for Weapon Throw VR have been increased, and the stagger effects reduced. A battle-axe throw may stagger an enemy but will cost a lot of stamina, while a dagger throw is relatively cheap but not as effective.
+Just like in Base Tahrovin, Weapon Throw VR will allow you to use your melee weapons as throwing weapons (https://www.nexusmods.com/skyrimspecialedition/mods/31374). However, the stamina costs have been increased compared to base Tahrovin, and the stagger effects reduced. A battle-axe throw may stagger an enemy but will cost a lot of stamina, while a dagger throw is relatively cheap but not as effective.
 
 Durability VR makes weapons and armor slowly degrade as you use them. This is a slow process, but using the same equipment for a very long time without maintaining it will eventually break it. To keep the equipment in good condition, you will have to temper it. The better-tempered the equipment, the slower the degradation. Magic weapons and artifacts also degrade more slowly. At first, you will likely not be able to temper your equipment (see [Crafting and Economy](#crafting-and-economy)). To repair your equipment, you should use Immersive Smithing. Go to a forge and equip the Blacksmith Hammer in your inventory. The ingame tutorial should guide you through the process.
 
@@ -285,7 +285,7 @@ Instead of increasing your level by raising your skills, the Experience mod lets
 Levels and skills have not been decoupled however. As explained earlier, you will be able to train your skills as you wish each level. Almost every NPC can now train you in a few skills as long as you have the gold and the Training Points. Skyrim's regular skill leveling is not gone, but is now much slower. Your skills start at 5. You may be able to progress through the lower levels of skill entirely on your own, but you will have a hard time going further without seeking training.
 
 ## Crafting and Economy
-You may notice that the only crafting workstation you are able to use from the start is the Tanning Rack. Otherwise, you will need to increase your skills first. Smithing workstations require a smithing skill of 15. Alchemy and Enchanting workstations require the skill at 20.
+You may notice that the only crafting workstation you are able to use from the start is the Tanning Rack. Otherwise, you will need to increase your skills first. Smithing workstations require a smithing skill of 15. Alchemy and Enchanting workstations require their skill at 20.
 
 Until you learn to craft for yourself, smiths and enchanters of skyrim can do the work for you thanks to Honed Metal. Tempering services are the cheapest ones, crafting services are in the middle, and enchanting services are fairly expensive. Prices will of course depend on the equipment being tempered/crafted, but also on the artisan - the more skilled they are, the more gold they'll ask for.
 
@@ -308,7 +308,7 @@ New random overworld encounters have been added through Extended Encounters.
 Dragon Combat Overhaul makes dragons smarter and grants them powerful new abilities. Their attacks are also generally stronger, and they have extra resistance to attacks that do not come directly from you.
 
 ## Death
-Shadow of Skyrim means death is not the end. Upon defeat, you will generally be assaulted by the victor in a Sexlab Scene. In most cases they will become your Nemesis and grow in power. If they're not a creature, they will also take some of your equipment to use for themselves. Meanwhile, you will receive a penalty : either (100*your level) in gold, or a dragon soul if you don't have the gold, or a permanent point of health if you don't have the soul either (note that you will be able to regain permanent health points through CBPC VRSex). You will also receive a situational or random debuff. 
+Shadow of Skyrim means death is not the end. Upon defeat, you will generally be assaulted by the victor in a Sexlab Scene. In most cases they will become your Nemesis and grow in power. If they're not a creature, they will also take some of your equipment to use for themselves. Meanwhile, you will receive a penalty : either (100*your level) in gold, or a dragon soul if you don't have the gold, or a permanent point of health if you don't have the soul either (note that you will be able to regain permanent health points through CBPC VRSex). You will also receive a situational or random debuff.
 
 It's not all bad however - going back and defeating your Nemesis will not only grant you some experience, but it will also transform that debuff into a related permanent buff, up to a total maximum of 5 buffs and debuffs from this mod.
 
@@ -336,7 +336,7 @@ Otherwise, no new quests have been added compared to regular Tahrovin, but many 
 - The weather mod is now Onyx Weathers, with much brighter nights. If that's not enough, I've added a lantern from Eld-beri II to your inventory.
 
 ## Advice
-The recommended difficulty for this list is Adept. The mods will provide plenty of difficulty on their own.
+The recommended difficulty for this list is Adept. The mods will provide plenty of difficulty on their own. If you still want to alter the difficulty, consider using the Simply Balanced MCM.
 
 When training, be on the lookout for experience modifiers. For example, having read skill books will grant you experience modifiers that make your training more effective. However, training while exhausted will make your training less effective. If you are careless, you might not get a full skill level out of it.
 
@@ -348,7 +348,7 @@ CBPC VRSex grants a number of bonuses if you have sex with a higher level charac
 
 When trading, consider which merchants to buy from and sell to.
 - Specialists (blacksmiths, alchemists, court mages) will have better prices than generalist shops.
-- Merchants will offer you discounts if you belong to the same guild, and further discounts if you are guild leader
+- Merchants will offer you discounts if you belong to the same guild, and further discounts if you are guild leader.
 - In big cities like Windhelm or Solitude, you will sell for more but also have to buy for more. The reverse is true in small towns like Riverwood.
 - You will have better prices with merchants of the same race, while merchants of hostile races (such as an argonian and a dunmer, or an altmer and a stormcloak nord) will have worse prices.
 - You will have better prices if the merchant is on friendly terms with you, which can usually be accomplished by completing a task for them. This will also override the "racism" factor entirely.
@@ -426,6 +426,5 @@ All that aside, updates are basically the same as an installation except you hav
 # Uninstalling Tahrovin
 No fancy uninstallation needed, you can just delete the Tahrovin folder and it'll be gone. There'll be no files left inside your Steam installation folder because Tahrovin uses the stock game feature of Wabbajack.
 
-
 # Thank You's
-Many thanks to iAmMe for making the original Tahrovin, and to Neochiken for continuing it.
+Many thanks to the Wabbajack team for making this possible at all, to iAmMe for making the original Tahrovin, and to Neochiken for continuing it.
