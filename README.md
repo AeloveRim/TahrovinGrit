@@ -212,7 +212,7 @@ The Realm of Lorkhan mod allows you to craft your character. You may pick a shri
 
 The training system offered by Sera the Trainer is available throughout all of skyrim. Most NPCs will offer you training in a few skills they are skilled in. To train, you will need gold and Training Points (TP) which you will gain at each level up. This is the main way to increase your skills, as regular skill leveling has been drastically slowed down. You can check your available TP at any time through the Training Potential power. The gold required to train will change depending on factors such as your skill level, your trainer's skill level and your relationship with the trainer (friends charge less).
 
-![SeraTrainer](img/Trainer.jpeg)
+![SeraTrainer](img/TrainerSera.jpeg)
 
 Sera the Trainer charges less gold for her training than most other trainers in Skyrim. Don't skip out on the opportunity to raise some of your skills here, but consider keeping at least a little bit of gold for later.
 
