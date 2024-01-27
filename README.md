@@ -219,7 +219,7 @@ Sera the Trainer charges less gold for her training than most other trainers in 
 Once you teleport at one of the crystals, you'll be dumped into Skyrim in the place you chose. Make your choices wisely though - once you leave, you cannot return.
 
 ## CBPC VRSex
-CBPC VRSex is a mod to create basic sex interactions without taking control away from the player. It requires the player to have a penis. If you are playing a non-futa female, you may use the "Auto-futa" option in the MCM to temporarily grow a penis during VRSex scenes. 
+[CBPC VRSex](https://www.loverslab.com/files/file/29662-cbpc-vrsex/) is a mod to create basic sex interactions without taking control away from the player. It requires the player to have a penis. If you are playing a non-futa female, you may use the "Auto-futa" option in the MCM to temporarily grow a penis during VRSex scenes. 
 
 If you wish to use that system, read the manual in your inventory or on the stand next to the "VRSex Training Dummy" NPC in the Realm of Lorkhan. Feel free to try out the mod on that Training Dummy to figure out how things work.
 
@@ -232,7 +232,7 @@ The third option, Molag Bal's Subjugation, is easier than both Incubus Arts and 
 ## Playing a mage
 Being able to use magic is not a given in Tahrovin Grit and will require an investment. Your magicka regeneration in combat is faster, but your starting magicka is only 50 and you do not start with any spells (other than the various debug spells) unless you are one of the races granted a bonus spell (Breton, Dunmer, Altmer). Furthermore, you will find that spell books are prohibitively expensive for a starting character.
 
-Rather than spell books, your main way to acquire new spells will be through Spell Forging. To do so, you must first read the Spellforge book in your inventory. Let the spell library initialize, it will then display a menu. Pick the "Conjure Forge" option to learn the spell and close the menu.
+Rather than spell books, your main way to acquire new spells will be through Spell Forging. To do so, you must first read the [Spellforge](https://www.nexusmods.com/skyrimspecialedition/mods/46482) book in your inventory. Let the spell library initialize, it will then display a menu. Pick the "Conjure Forge" option to learn the spell and close the menu.
 
 If you want to start the game as a mage right away, I recommend doing the following : 
 - Increase your magicka by picking the Mage, Lady or Atronach standing stones, otherwise you'll lack the magicka to even forge novice spells at first. As a more temporary measure, Julianos' shrine can also help. Note that Altmer already start with an extra 50 magicka and may not necessarily need to do that.
@@ -257,58 +257,58 @@ As you play, keep raising your magic skills to gain more school theses and learn
 
 Other changes compared to base Tahrovin : 
 - Triumvirate has been removed
-- Balance adjustments for Apocalypse deals with the worst offenders, such as turning Ocato's Recital into a series of perks or switching Ghostwalk from a novice to an expert spell.
-- Two Darenii spell packs have been added, Abyss and Arcane.
-- Thaumaturgy rebalances enchanted items
-- The Spellsiphon magic system is available, but not immediately. To unlock the Spellsiphon Urn in your inventory, you will need at least 20 Restoration and either 20 Destruction or 20 Conjuration.
-- Various other small additions : Immersive Bend Will, Perception, NPCs react to Necromancy/Invisibility.
+- [Balance adjustments for Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/104987) deals with the worst offenders, such as turning Ocato's Recital into a series of perks or switching Ghostwalk from a novice to an expert spell.
+- Two Darenii spell packs have been added, [Abyss](https://www.nexusmods.com/skyrimspecialedition/mods/83329) and [Arcane](https://www.nexusmods.com/skyrimspecialedition/mods/91602).
+- [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) rebalances enchanted items
+- The [Spellsiphon](https://www.nexusmods.com/skyrimspecialedition/mods/26627) magic system is available, but not immediately. To unlock the Spellsiphon Urn in your inventory, you will need at least 20 Restoration and either 20 Destruction or 20 Conjuration.
+- Various other small additions : [Immersive Bend Will](https://www.nexusmods.com/skyrimspecialedition/mods/62233), [Perception](https://www.nexusmods.com/skyrimspecialedition/mods/7559), [NPCs react to Necromancy](https://www.nexusmods.com/skyrimspecialedition/mods/70428)[/Invisibility](https://www.nexusmods.com/skyrimspecialedition/mods/91480).
 
 ## Playing a warrior
-The main change you will notice as a warrior is that vanilla blocking has been removed entirely in favor of Pseudo-physical parry. To block with a shield, you no longer simply have to hold the shield in front of you. You must intercept the enemy's attack with it, while holding the trigger button on the hand holding the shield. If you have a timed-block perk, you can trigger it by pressing the trigger to block at the moment of impact. Weapons no longer block at all, they can only use the Pseudo-physical parry system by intercepting the enemy's attack. By moving the weapon or shield fast enough as you parry or block, you may even stagger the enemy. Both blocking and parrying will cost Stamina instead of Health. If you are out of Stamina, weapon parrying becomes impossible and shield blocking starts to use Health instead.
+The main change you will notice as a warrior is that vanilla blocking has been removed entirely in favor of [Pseudo Physical Weapon Collision and Parry](https://www.nexusmods.com/skyrimspecialedition/mods/100781). To block with a shield, you no longer simply have to hold the shield in front of you. You must intercept the enemy's attack with it, while holding the trigger button on the hand holding the shield. If you have a timed-block perk, you can trigger it by pressing the trigger to block at the moment of impact. Weapons no longer block at all, they can only use the Pseudo-physical parry system by intercepting the enemy's attack. By moving the weapon or shield fast enough as you parry or block, you may even stagger the enemy. Both blocking and parrying will cost Stamina instead of Health. If you are out of Stamina, weapon parrying becomes impossible and shield blocking starts to use Health instead.
 
 You will also be able to block and parry arrows and spell projectiles by intercepting them physically. While holding trigger, projectiles will be slowed at the cost of a bit of magicka, making that process easier.
 
 The settings for pseudo-physical parry are less forgiving than the ones in base Tahrovin. You will not be able to parry by simply standing still, make sure to move your weapon as you intercept.
 
-Just like in Base Tahrovin, Weapon Throw VR will allow you to use your melee weapons as throwing weapons (https://www.nexusmods.com/skyrimspecialedition/mods/31374). However, the stamina costs have been increased compared to base Tahrovin, and the stagger effects reduced. A battle-axe throw may stagger an enemy but will cost a lot of stamina, while a dagger throw is relatively cheap but not as effective.
+Just like in Base Tahrovin, [Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374) will allow you to use your melee weapons as throwing weapons. However, the stamina costs have been increased compared to base Tahrovin, and the stagger effects reduced. A battle-axe throw may stagger an enemy but will cost a lot of stamina, while a dagger throw is relatively cheap but not as effective.
 
-Durability VR makes weapons and armor slowly degrade as you use them. This is a slow process, but using the same equipment for a very long time without maintaining it will eventually break it. To keep the equipment in good condition, you will have to temper it. The better-tempered the equipment, the slower the degradation. Magic weapons and artifacts also degrade more slowly. At first, you will likely not be able to temper your equipment (see [Crafting and Economy](#crafting-and-economy)). To repair your equipment, you should use Immersive Smithing. Go to a forge and equip the Blacksmith Hammer in your inventory. The ingame tutorial should guide you through the process.
+[Durability VR](https://www.nexusmods.com/skyrimspecialedition/mods/76830) makes weapons and armor slowly degrade as you use them. This is a slow process, but using the same equipment for a very long time without maintaining it will eventually break it. To keep the equipment in good condition, you will have to temper it. The better-tempered the equipment, the slower the degradation. Magic weapons and artifacts also degrade more slowly. At first, you will likely not be able to temper your equipment (see [Crafting and Economy](#crafting-and-economy)). To repair your equipment, you should use Immersive Smithing. Go to a forge and equip the Blacksmith Hammer in your inventory. The ingame tutorial should guide you through the process.
 
 Finally, you will no longer be able to do power attacks unless you are able to pay the full stamina cost.
 
 ## Playing a thief
-There's not a lot of changes on that end. Pickpocketing and lockpicking are harder than usual if you're unskilled, but easier if you do raise your skills. Breaking your lockpick will throw you out of the lockpicking minigame and force you to start from scratch - make sure to check for patrolling guards ! Otherwise, it's just the usual Vokriinator stuff.
+There's not a lot of changes on that end. Pickpocketing and lockpicking are harder than usual if you're unskilled, but easier if you do raise your skills. [Broken picks](https://www.nexusmods.com/skyrimspecialedition/mods/95275) makes it so breaking your lockpick will throw you out of the lockpicking minigame and force you to start from scratch - make sure to check for patrolling guards ! Otherwise, it's just the usual Vokriinator stuff.
 
 ## Leveling
-Instead of increasing your level by raising your skills, the Experience mod lets you increase your level as you adventure, exploring Skyrim and accomplishing quests. The leveling curve has been modified to provide a slower-paced experience.
+Instead of increasing your level by raising your skills, the [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) mod lets you increase your level as you adventure, exploring Skyrim and accomplishing quests. The leveling curve has been modified to provide a slower-paced experience.
 
-Levels and skills have not been decoupled however. As explained earlier, you will be able to train your skills as you wish each level. Almost every NPC can now train you in a few skills as long as you have the gold and the Training Points. Skyrim's regular skill leveling is not gone, but is now much slower. Your skills start at 5. You may be able to progress through the lower levels of skill entirely on your own, but you will have a hard time going further without seeking training.
+Levels and skills have not been decoupled however. As explained earlier, you will be able to train your skills as you wish each level thanks to [Trainers Galore](https://www.nexusmods.com/skyrimspecialedition/mods/20360) and its [Training Points](https://www.nexusmods.com/skyrimspecialedition/mods/103092) addon. Almost every NPC can now train you in a few skills as long as you have the gold and the Training Points. Skyrim's regular skill leveling is not gone, but is now much slower. Your skills start at 5. You may be able to progress through the lower levels of skill entirely on your own, but you will have a hard time going further without seeking training.
 
 ## Crafting and Economy
 You may notice that the only crafting workstation you are able to use from the start is the Tanning Rack. Otherwise, you will need to increase your skills first. Smithing workstations require a smithing skill of 15. Alchemy and Enchanting workstations require their skill at 20.
 
 Until you learn to craft for yourself, smiths and enchanters of skyrim can do the work for you thanks to Honed Metal. Tempering services are the cheapest ones, crafting services are in the middle, and enchanting services are fairly expensive. Prices will of course depend on the equipment being tempered/crafted, but also on the artisan - the more skilled they are, the more gold they'll ask for.
 
-Trade and Barter alters the prices at which items are bought and sold, making it more difficult to make money through trade and making the various gold sinks (training, equipment maintenance, defeat...) more meaningful.
+[Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081) alters the prices at which items are bought and sold, making it more difficult to make money through trade and making the various gold sinks (training, equipment maintenance, defeat...) more meaningful.
 
-If you're short on gold and lacking leads on how to make more, Missives quests can help you get back on track. Simply check the quest bulletin board that can be found in any major city. If a missive board doesn't give you quest immediately on your first activation, wait a few moments and try again.
+If you're short on gold and lacking leads on how to make more, [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) quests can help you get back on track. Simply check the quest bulletin board that can be found in any major city. If a missive board doesn't give you quest immediately on your first activation, wait a few moments and try again.
 
 ## Survival and needs
-Tahrovin Grit uses Sunhelm and a stripped-down version of Campsite for its Survival elements. Eat, drink and sleep regularly to keep yourself in top condition, and avoid staying out in the cold too long without adequate protection. 
-Buy or craft a tent at a tanning rack to sleep out in the wild - but be wary of night ambushes !
+Tahrovin Grit uses [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414) and a stripped-down version of [Campsite](https://www.nexusmods.com/skyrimspecialedition/mods/22353) for its Survival elements. Eat, drink and sleep regularly to keep yourself in top condition, and avoid staying out in the cold too long without adequate protection. 
+Buy or craft a tent at a tanning rack to sleep out in the wild - but be wary of night ambushes from [Sands of Time Sleeping Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/8257) !
 
 If you have enough firewood in your inventory, you can use it to create campfires and warm yourself up. By setting a tent near trees, you may turn it into a Wood-chopping tent and get some more firewood for your campfire, but make sure you have a Woodcutter's axe to chop the wood !
 
-Fast travel is disabled, but there are now more carriage routes available. Consider buying a horse when able, but take care not to get them killed. A horse will also be useful to carry more things : Thanks to Gift by Hand VR you can access your horse's inventory by triple-grasping them (grasping them three times in quick succession). You can also call your horse at any time by putting both hands to your mouth and holding the triggers for more than 1 second.
+Fast travel is disabled, but there are now more carriage routes available thanks to [Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379). Consider buying a horse when able, but take care not to get them killed. A horse will also be useful to carry more things : Thanks to [Gift by Hand VR](https://www.nexusmods.com/skyrimspecialedition/mods/99809) you can access your horse's inventory by triple-grasping them (grasping them three times in quick succession). You can also call your horse at any time by putting both hands to your mouth and holding the triggers for more than 1 second.
 
 ## Enemies and encounters
-Encounter zones have been slightly increased, and new enemies have been added with Hand-Placed Enemies. Locational Encounter Zones ensures that even in the overworld, enemies will match the level of their encounter zone.
-New random overworld encounters have been added through Extended Encounters.
+Encounter zones have been slightly increased, and new enemies have been added with [Hand-Placed Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/59249). [Locational Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/85212) ensures that even in the overworld, enemies will match the level of their encounter zone.
+New random overworld encounters have been added through [Extended Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/44810).
 
-Dragon Combat Overhaul makes dragons smarter and grants them powerful new abilities. Their attacks are also generally stronger, and they have extra resistance to attacks that do not come directly from you.
+[Dragon Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/56082) makes dragons smarter and grants them powerful new abilities. Their attacks are also generally stronger, and they have extra resistance to attacks that do not come directly from you.
 
 ## Death
-Shadow of Skyrim means death is not the end. Upon defeat, you will generally be assaulted by the victor in a Sexlab Scene. In most cases they will become your Nemesis and grow in power. If they're not a creature, they will also take some of your equipment to use for themselves. Meanwhile, you will receive a penalty : either (100*your level) in gold, or a dragon soul if you don't have the gold, or a permanent point of health if you don't have the soul either (note that you will be able to regain permanent health points through CBPC VRSex). You will also receive a situational or random debuff.
+[Shadow of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/65136) means death is not the end. Upon defeat, you will generally be assaulted by the victor in a Sexlab Scene. In most cases they will become your Nemesis and grow in power. If they're not a creature, they will also take some of your equipment to use for themselves. Meanwhile, you will receive a penalty : either (100*your level) in gold, or a dragon soul if you don't have the gold, or a permanent point of health if you don't have the soul either (note that you will be able to regain permanent health points through CBPC VRSex). You will also receive a situational or random debuff.
 
 It's not all bad however - going back and defeating your Nemesis will not only grant you some experience, but it will also transform that debuff into a related permanent buff, up to a total maximum of 5 buffs and debuffs from this mod.
 
@@ -319,21 +319,20 @@ To feed a potion to a follower, simply put it in your hand with Spellwheel, put 
 Most followers will require a weekly amount of 300 gold to sustain themselves. Special followers that are not handled by Nether's Follower Framework (Lucien, Inigo, Auri, Serana...) will not require this.
 
 ## Quests
-The encounter zones for the main quest, starting from Bleak Falls Barrow, have been increased. I would not recommend trying to get through it at level 1. The reason for this is that going through the main quest would unlock dragons, and dragons are tough enemies here. On the other hand if you can manage to get through Bleak Falls Barrow even at a low level, you might be able to handle yourself against a dragon just fine.
+The encounter zones for the main quest, starting from Bleak Falls Barrow, have been increased. I would not recommend trying to get through it at level 1. The reason for this is that going through the main quest would unlock dragons, and you do *not* want to fight a dragon at level 1 in this list. On the other hand if you can manage to get through Bleak Falls Barrow even at a low level, you might be able to handle yourself against a dragon just fine.
 
 Delaying the main quest doesn't mean Alduin will stay put forever. After 90 days, if you haven't finished the main quest, Alduin will come seeking to destroy you. This will be an easier fight than the actual, full-powered Alduin you will have to fight in the main quest, but you should still make sure you have grown strong enough to fend him off. Once you do, you will have 20 days before he seeks you out again. Take care and don't slack off on your training : every time he comes back, Alduin will be more powerful !
 
-Otherwise, no new quests have been added compared to regular Tahrovin, but many of jayserpa's vanilla quest expansions have been integrated.
+Otherwise, no new quests have been added compared to regular Tahrovin, but many of [jayserpa's vanilla quest expansions](https://www.nexusmods.com/skyrimspecialedition/users/5201727) have been integrated.
 
 ## Other changes
-- Mundus is the standing stone overhaul
-- Aetherius is the race overhaul
-- Thaumaturgy rebalances 
-- Quickloot VR reduces the amount of menus
-- Reading is good means you no longer need to hold on to these skill books forever
-- Voiced books of skyrim means you can pop an audiobook while traveling.
-- Potion Toxicity prevents you from overusing a bunch of potions in the middle of a fight, as they will grow less and less effective.
-- The weather mod is now Onyx Weathers, with much brighter nights. If that's not enough, I've added a lantern from Eld-beri II to your inventory.
+- [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) is the standing stone overhaul
+- [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) is the race overhaul 
+- [Quickloot VR](https://www.nexusmods.com/skyrimspecialedition/mods/102094) reduces the amount of menus
+- [Reading is good](https://www.nexusmods.com/skyrimspecialedition/mods/42026) means you no longer need to hold on to these skill books forever
+- [Voiced books of skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/94436) means you can pop an audiobook while traveling.
+- [Potion Toxicity](https://www.nexusmods.com/skyrimspecialedition/mods/32576) prevents you from overusing a bunch of potions in the middle of a fight, as they will grow less and less effective.
+- [Onyx Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/36227) replaces the weather mod, with much brighter nights. If that's not enough, I've added a lantern from Eld-beri II to your inventory.
 
 ## Advice
 The recommended difficulty for this list is Adept. The mods will provide plenty of difficulty on their own. If you still want to alter the difficulty, consider using the Simply Balanced MCM.
