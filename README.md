@@ -210,7 +210,7 @@ When you first start a new game, you won't find yourself inside of Skyrim anywhe
 
 The Realm of Lorkhan mod allows you to craft your character. You may pick a shrine and standing stone bonus to start with. Make sure to speak with Sera the Trainer to increase your starting skills as you wish. If you don't get a training dialog when talking to her, make sure you followed my earlier instructions by **saving your game, going back to the main menu then reloading.**
 
-The training system offered by Sera the Trainer is available throughout all of skyrim. Most NPCs will offer you training in a few skills they are skilled in. To train, you will need gold and Training Points (TP) which you will gain at each level up. This is the main way to increase your skills, as regular skill leveling has been drastically slowed down. You can check your available TP at any time through the Training Potential power. The gold required to train will change depending on factors such as your skill level, your trainer's skill level and your relationship with the trainer (friends charge less).
+The training system offered by Sera the Trainer is available throughout all of Skyrim. Most NPCs will offer you training in a few skills they are skilled in. To train, you will need gold and Training Points (TP) which you will gain at each level up. This is the main way to increase your skills, as regular skill leveling has been drastically slowed down. You can check your available TP at any time through the Training Potential power. The gold required to train will change depending on factors such as your skill level, your trainer's skill level and your relationship with the trainer (friends charge less).
 
 ![SeraTrainer](img/TrainerSera.jpeg)
 
