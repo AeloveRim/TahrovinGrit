@@ -313,6 +313,8 @@ New random overworld encounters have been added through [Extended Encounters](ht
 
 It's not all bad however - going back and defeating your Nemesis will not only grant you some experience, but it will also transform that debuff into a related permanent buff, up to a total maximum of 5 buffs and debuffs from this mod.
 
+Note that if your followers are still fighting when you are defeated, they will have a 60-second grace period where they can still save you. If they manage to finish the fight during that period, you will not suffer any penalties.
+
 ## Followers
 When a follower falls in combat, they will not get back up by themselves until the combat is over. If you want them back in the fight, you can heal them with healing spells, or with a potion.
 To feed a potion to a follower, simply put it in your hand with Spellwheel, put it in your follower's mouth and let it drop.
