@@ -236,7 +236,7 @@ Rather than spell books, your main way to acquire new spells will be through Spe
 
 If you want to start the game as a mage right away, I recommend doing the following : 
 - Increase your magicka by picking the Mage, Lady or Atronach standing stones, otherwise you'll lack the magicka to even forge novice spells at first. As a more temporary measure, Julianos' shrine can also help. Note that Altmer already start with an extra 50 magicka and may not necessarily need to do that.
-- Increase one of your racial magic skills to at least 20 at Sera the Trainer if possible. You should have enough gold and TP to raise a skill from 10 to 20 right away. This will allow you to learn a novice spell through Spellforge immediately. If you don't have any racial magic skills or you'd rather use a different skill, you'll have to skip the rest of this process and instead save your gold to buy a spell book at a merchant.
+- Increase one of your racial magic skills to at least 20 at Sera the Trainer if possible. You should have enough gold and TP to raise a skill from 10 to 20 right away. This will allow you to learn a novice spell through Spellforge immediately. If you don't have any racial magic skills or you'd rather use a different skill but still want a spell right away, you'll have to skip the rest of this process and instead save your gold to buy a spell book at a merchant.
 
 Cast the "Conjure Spellforge" spell on the ground to summon the forge and select the bottom node to access the forge's main functions. Select the Resin Experimentation option.
 ![SpellforgeMain](img/SpellforgeMain.jpeg)
