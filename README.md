@@ -227,6 +227,8 @@ To start, I recommend activating the Incubus Arts power then groping the VRSex d
 
 You can technically also use the Knockout Arts power instead of Incubus Arts, but a starting character will find it extremely hard to use. The knockout combo will only activate if you have 90 stamina. As parrying uses up your stamina, you will often find yourself parrying an enemy attack and ruining the combo. Before you start using Knockout Arts instead of Incubus Arts, either increase your warrior skills to learn Improved Knockout Arts or increase your stamina.
 
+The third option, Molag Bal's Subjugation, is easier than both Incubus Arts and Knockout Arts to use but is entirely unavailable as a starting character and requires investing into Illusion.
+
 ## Playing a mage
 Being able to use magic is not a given in Tahrovin Grit and will require an investment. Your magicka regeneration in combat is faster, but your starting magicka is only 50 and you do not start with any spells (other than the various debug spells) unless you are one of the races granted a bonus spell (Breton, Dunmer, Altmer). Furthermore, you will find that spell books are prohibitively expensive for a starting character.
 
