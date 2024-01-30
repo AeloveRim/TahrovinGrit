@@ -312,6 +312,8 @@ New random overworld encounters have been added through [Extended Encounters](ht
 
 [Dragon Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/56082) makes dragons smarter and grants them powerful new abilities. Their attacks are also generally stronger, and they have extra resistance to attacks that do not come directly from you.
 
+Enemy mages have been slightly nerfed, though they still remain a very real threat. Their magicka regeneration no longer ensures near-endless casting and there will be times where they have to pause as they run out of magicka. If you are having trouble, make sure to take advantage of these opportunities !
+
 ## Death
 [Shadow of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/65136) means death is not the end. Upon defeat, you will generally be assaulted by the victor in a Sexlab Scene. In most cases they will become your Nemesis and grow in power. If they're not a creature, they will also take some of your equipment to use for themselves. Meanwhile, you will receive a penalty : either (100*your level) in gold, or a dragon soul if you don't have the gold, or a permanent point of health if you don't have the soul either (note that you will be able to regain permanent health points through CBPC VRSex). You will also receive a situational or random debuff.
 
