@@ -332,7 +332,8 @@ The encounter zones for the main quest, starting from Bleak Falls Barrow, have b
 
 Delaying the main quest doesn't mean Alduin will stay put forever. After 90 days, if you haven't finished the main quest, Alduin will come seeking to destroy you. This will be an easier fight than the actual, full-powered Alduin you will have to fight in the main quest, but you should still make sure you have grown strong enough to fend him off. Once you do, you will have 20 more days before he seeks you out again. Take care and don't slack off on your training : every time he comes back, Alduin will be even more powerful !
 
-Otherwise, no new quests have been added compared to regular Tahrovin, but many of [jayserpa's vanilla quest expansions](https://www.nexusmods.com/skyrimspecialedition/users/5201727) have been integrated.
+Besides that, a few quests have been added : [Amorous Adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/) (with the player text revision), [The forgotten city](https://www.nexusmods.com/skyrimspecialedition/mods/1179), [The chain of time](https://www.nexusmods.com/skyrimspecialedition/mods/95062), [The shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167), and many of any of [jayserpa's vanilla quest expansions](https://www.nexusmods.com/skyrimspecialedition/users/5201727) have been integrated.
+
 
 ## Other changes
 - [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) is the standing stone overhaul
