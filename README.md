@@ -302,6 +302,10 @@ If you have enough firewood in your inventory, you can use it to create campfire
 
 Fast travel is disabled, but there are now more carriage routes available thanks to [Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379). Consider buying a horse when able, but take care not to get them killed. A horse will also be useful to carry more things : Thanks to [Horse Storage](https://www.nexusmods.com/skyrimspecialedition/mods/3838) you can access your horse's inventory by sneaking while activating them. You can also call your horse at any time while you are outside with the [Call your Horse](https://www.nexusmods.com/skyrimspecialedition/mods/49595) power.
 
+Animals will drop a little bit more loot, and their pelts are now a bit more valuable. It will not necessarily always be better to turn it all into leather. 
+
+Cooking is now a bit easier as most recipes won't use up Salt Piles anymore. You still need to keep a salt pile in your inventory, it just won't be used up every time you cook something.
+
 ## Enemies and encounters
 Encounter zones have been slightly increased, and new enemies have been added with [Hand-Placed Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/59249). [Locational Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/85212) ensures that even in the overworld, enemies will match the level of their encounter zone.
 New random overworld encounters have been added through [Extended Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/44810).
