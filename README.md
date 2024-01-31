@@ -333,6 +333,8 @@ While followers may be a powerful asset, having too many of them may be detrimen
 - 3 followers : -20% EXP from quests, -70% EXP from exploring and clearing areas
 - 4+ followers : -30% EXP from quests, no EXP from exploring and clearing areas
 
+Daegon has been removed but new followers have been added : [Misty Skye](https://www.nexusmods.com/skyrimspecialedition/mods/16374) and [M'rissi](https://www.nexusmods.com/skyrimspecialedition/mods/9666).
+
 ## Quests
 The encounter zones for the main quest, starting from Bleak Falls Barrow, have been increased. I would not recommend trying to get through it at level 1. The reason for this is that going through the main quest would unlock dragons, and you do *not* want to fight a dragon at level 1 in this list. On the other hand, who knows - if you can manage to get through Bleak Falls Barrow even at a low level, maybe you'll be able to handle yourself against a dragon just fine.
 
