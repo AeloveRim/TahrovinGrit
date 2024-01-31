@@ -184,7 +184,7 @@ When starting a new game, create your character and once done, *DO NOTHING ELSE*
 
 The MCM setup is *mostly* automated and will run on its own after you've finished character creation. As mentioned, *DO NOTHING* until the window pops-up telling you to save.
 
-When you are done, **save your game, go back to the main menu, then load that save so the last few mods can load properly**.
+When you are done, **save your game, go back to the main menu, then load that save** so the last few mods can load properly.
 
 That done, there are optional configuration changes you may wish to make in the Mod Configuration Menu :
 
