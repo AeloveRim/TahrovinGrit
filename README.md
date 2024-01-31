@@ -327,7 +327,11 @@ Note that if your followers are still fighting when you are defeated, they will 
 When a follower falls in combat, they will not get back up by themselves until the combat is over. If you want them back in the fight, you can heal them with healing spells, or with a potion.
 To feed a potion to a follower, simply put it in your hand with Spellwheel, put it in your follower's mouth and let it drop.
 
-Most followers will require a weekly amount of 300 gold to sustain themselves. Special followers that are not handled by [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653) (Lucien, Inigo, Auri, Serana...) will not require this.
+While followers may be a powerful asset, having too many of them may be detrimental to your own growth. If you have two or more followers, you will get less experience from exploring, clearing areas, or completing quests and objectives. The more followers you have, the less experience you will get: 
+- 1 follower : No EXP penalty
+- 2 followers : -10% EXP from quests, -30% EXP from exploring and clearing areas
+- 3 followers : -20% EXP from quests, -70% EXP from exploring and clearing areas
+- 4+ followers : -30% EXP from quests, no EXP from exploring and clearing areas
 
 ## Quests
 The encounter zones for the main quest, starting from Bleak Falls Barrow, have been increased. I would not recommend trying to get through it at level 1. The reason for this is that going through the main quest would unlock dragons, and you do *not* want to fight a dragon at level 1 in this list. On the other hand, who knows - if you can manage to get through Bleak Falls Barrow even at a low level, maybe you'll be able to handle yourself against a dragon just fine.
