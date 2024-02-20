@@ -273,8 +273,6 @@ The settings for pseudo-physical parry are less forgiving than the ones in base 
 
 Just like in Base Tahrovin, [Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374) will allow you to use your melee weapons as throwing weapons. However, the stamina costs have been increased compared to base Tahrovin, and the stagger effects reduced. A battle-axe throw may stagger an enemy but will cost a lot of stamina, while a dagger throw is relatively cheap but not as effective.
 
-[Durability VR](https://www.nexusmods.com/skyrimspecialedition/mods/76830) makes weapons and armor slowly degrade as you use them. This is a slow process, but using the same equipment for a very long time without maintaining it will eventually break it. To keep the equipment in good condition, you will have to temper it. The better-tempered the equipment, the slower the degradation. Magic weapons and artifacts also degrade more slowly. At first, you will likely not be able to temper your equipment (see [Crafting and Economy](#crafting-and-economy)) but you will still be able to repair your equipment through [Immersive Smithing](https://www.nexusmods.com/skyrimspecialedition/mods/72298). Go to a forge and equip the Blacksmith Hammer in your inventory. The ingame tutorial should guide you through the process. Careful however, not even Immersive Smithing will be able to repair enchanted equipment without the appropriate smithing perks !
-
 Finally, you will no longer be able to do power attacks unless you are able to pay the full stamina cost.
 
 ## Playing a thief
@@ -289,6 +287,12 @@ Levels and skills have not been decoupled however. As explained earlier, you wil
 You may notice that the only crafting workstations you are able to use from the start are the Tanning Rack and the Smelter. Otherwise, you will need to increase your skills first. Smithing workstations require a smithing skill of 15. Alchemy and Enchanting workstations require their skill at 20.
 
 Until you learn to craft for yourself, smiths and enchanters of skyrim can do the work for you thanks to Honed Metal. Tempering services are the cheapest ones, crafting services are in the middle, and enchanting services are fairly expensive. Prices will of course depend on the equipment being tempered/crafted, but also on the artisan - the more skilled they are, the more gold they'll ask for.
+
+[Durability VR](https://www.nexusmods.com/skyrimspecialedition/mods/76830) makes weapons armor and clothing slowly degrade as you use them. This is a slow process, but using the same equipment for a very long time without maintaining it will eventually break it. To keep the equipment in good condition, you will have to temper it. Many of the armors you will receive from enemy loot will also be degraded and require tempering before you can use them. The better-tempered the equipment, the slower the degradation. Magic weapons and artifacts also degrade more slowly. 
+
+At first, you may not be able to temper your equipment due to the smithing skill requirement, but you will still be able to repair your equipment yourself through [Immersive Smithing](https://www.nexusmods.com/skyrimspecialedition/mods/72298). Go to a forge and equip the Blacksmith Hammer in your inventory. The ingame tutorial should guide you through the process. Careful however, not even Immersive Smithing will be able to repair enchanted equipment without the Arcane Blacksmith smithing perk ! Until then, you will need the services of a more skilled blacksmith to repair enchanted gear.
+
+Once you have 15 smithing you will be able to temper clothing as well at the armor table to repair it or extend its durability, using Linen Wraps. Repairing Enchanted Clothing requires either the Arcane Blacksmith perk, just like with armor or weapons, or an Enchanting skill of at least 50.
 
 [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081) alters the prices at which items are bought and sold, making it more difficult to make money through trade and making the various gold sinks (training, equipment maintenance, defeat...) more meaningful.
 
