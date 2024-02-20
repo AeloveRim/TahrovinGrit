@@ -271,7 +271,7 @@ You will also be able to block and parry arrows and spell projectiles by interce
 
 The settings for pseudo-physical parry are less forgiving than the ones in base Tahrovin. You will not be able to parry by simply standing still, make sure to move your weapon as you intercept.
 
-Just like in Base Tahrovin, [Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374) will allow you to use your melee weapons as throwing weapons. However, the stamina costs have been increased compared to base Tahrovin, and the stagger effects reduced. A battle-axe throw may stagger an enemy but will cost a lot of stamina, while a dagger throw is relatively cheap but not as effective.
+[Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374) is present, but is meant to be used only with specific throwing weapons. These weapons are cheap and disposable and relatively weak in melee, but much more effective when thrown. They can be bought in shops or crafted, if you have the skill.
 
 Finally, you will no longer be able to do power attacks unless you are able to pay the full stamina cost.
 
