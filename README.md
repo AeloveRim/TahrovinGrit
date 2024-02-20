@@ -271,7 +271,7 @@ You will also be able to block and parry arrows and spell projectiles by interce
 
 The settings for pseudo-physical parry are less forgiving than the ones in base Tahrovin. You will not be able to parry by simply standing still, make sure to move your weapon as you intercept.
 
-[Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374) is present, but is meant to be used only with specific throwing weapons. These weapons are cheap, disposable and relatively weak in melee, but much more effective when thrown. They can be bought in shops or crafted, if you have the skill.
+[Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374) is present, but is meant to be used only with specific throwing weapons. These weapons are cheap, disposable and relatively weak in melee, but much more effective when thrown. They can be bought in shops or crafted.
 
 Finally, you will no longer be able to do power attacks unless you are able to pay the full stamina cost.
 
