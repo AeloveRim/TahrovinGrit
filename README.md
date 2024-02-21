@@ -346,7 +346,6 @@ Delaying the main quest doesn't mean Alduin will stay put forever. After 90 days
 
 Besides that, a few quests have been added : [Amorous Adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/) (with the player text revision), [The forgotten city](https://www.nexusmods.com/skyrimspecialedition/mods/1179), [The chain of time](https://www.nexusmods.com/skyrimspecialedition/mods/95062), [The shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167), and many of [jayserpa's vanilla quest expansions](https://www.nexusmods.com/skyrimspecialedition/users/5201727) have been integrated.
 
-
 ## Other changes
 - [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) is the standing stone overhaul
 - [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) is the race overhaul 
@@ -373,6 +372,15 @@ When trading, consider which merchants to buy from and sell to.
 - In big cities like Windhelm or Solitude, you will sell for more but also have to buy for more. The reverse is true in small towns like Riverwood.
 - You will have better prices with merchants of the same race, while merchants of hostile races (such as an argonian and a dunmer, or an altmer and a stormcloak nord) will have worse prices.
 - You will have better prices if the merchant is on friendly terms with you, which can usually be accomplished by completing a task for them. This will also override the "racism" factor entirely.
+
+## The Extra Quests Profile
+When I play Skyrim, I usually like to load it up with a bunch of quests I haven't played before. During my playthrough, I'll usually stumble upon a few of them, I'll remove them from my load order and add a bunch of new ones for the next playthrough.
+
+Since I'm going to do that for myself anyway, I figured I might as well leave it in for the people who want a lot more quests around ! This profile is completely untested, I can't guarantee the extra quests are good, fit in well, or even if they work fine in VR. It *should* be okay, but who knows !
+
+Safe to say, only select this profile if you don't mind a little potential jank ! If something doesn't work with this profile, get back to me and I'll make a patch !
+
+As I play through more quests, some will eventually be switched from the Extra Quests profile to the main Grit profile and others will likely be added.
 
 # FAQ & Common Issues
 
