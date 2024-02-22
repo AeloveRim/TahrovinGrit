@@ -378,7 +378,7 @@ When I play Skyrim, I usually like to load it up with a bunch of quests I haven'
 
 Since I'm going to do that for myself anyway, I figured I might as well leave it in for the people who want a lot more quests around ! This profile is completely untested, I can't guarantee the extra quests are good, fit in well, or even if they work fine in VR. It *should* be okay, but who knows !
 
-Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me and I'll make a patch !
+Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me on Discorod and I'll see if I can make a patch.
 
 As I play through more quests, some will eventually be switched from the Extra Quests profile to the main Grit profile and others will likely be added.
 
