@@ -374,7 +374,7 @@ When trading, consider which merchants to buy from and sell to.
 - You will have better prices if the merchant is on friendly terms with you, which can usually be accomplished by completing a task for them. This will also override the "racism" factor entirely.
 
 ## The Extra Quests Profile
-When I play Skyrim, I usually like to load it up with a bunch of quests I haven't played before. During my playthrough, I'll usually stumble upon a few of them and, once the playthrough is done, I'll remove them from my load order and add a bunch of new ones for the next playthrough.
+When I play Skyrim, I usually like to load it up with a bunch of quests I haven't played before. When my playthrough is done, I'll remove the ones I stumbled upon and add a bunch of new ones for the next playthrough.
 
 Since I'm going to do that for myself anyway, I figured I might as well leave it in for the people who want a lot more quests around ! This profile is completely untested, I can't guarantee the extra quests are good, fit in well, or even if they work fine in VR. It *should* be okay, but who knows !
 
