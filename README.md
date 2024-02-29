@@ -424,12 +424,12 @@ Your CPU or GPU is too weak. Or, you don't have XMP enabled for your RAM.
 If you ignored the minimum specifications I wrote near the top of this readme, that's on you.
 
 There are still a couple things you can do to slightly increase performance : 
--Switch from SteamVR to OpenComposite
--Switch from Skyrim Upscaler VR - DLAA to either Skyrim Upscaler VR - DLSS if your GPU allows it, or Skyrim Upscaler VR - FSR 
--Disable everything in the CS Resources section except Reshade Toggler. If you are playing an existing game, do not disable Eld-beri either.
--Disable everything in the ReShade section
--Activate VR FPS Stabilizer - Occlusion FPS boost
--Reinstall Faster HDT-SMP and select AVX or AVX2 if your CPU supports it
+- Switch from SteamVR to OpenComposite
+- Switch from Skyrim Upscaler VR - DLAA to either Skyrim Upscaler VR - DLSS if your GPU allows it, or Skyrim Upscaler VR - FSR 
+- Disable everything in the CS Resources section except Reshade Toggler. If you are playing an existing game, do not disable Eld-beri either.
+- Disable everything in the ReShade section
+- Activate VR FPS Stabilizer - Occlusion FPS boost
+- Reinstall Faster HDT-SMP and select AVX or AVX2 if your CPU supports it
 
 ## Loading takes too long!
 Shouldn't have put the modlist on a HDD - I did warn you earlier in this very readme.
