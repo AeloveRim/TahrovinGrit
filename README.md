@@ -368,7 +368,7 @@ You can open a container normally instead of using Quickloot by keeping the inte
 CBPC VRSex grants a number of bonuses if you have sex with a higher level character than you, including a permanent point of health or magicka. If you spot a strong enemy and you're not in refractory cooldown, try to take her down nonlethally if you can !
 
 When trading, consider which merchants to buy from and sell to.
-- Specialists (blacksmiths, alchemists, court mages) will have better prices than generalist shops.
+- Specialists (blacksmiths, alchemists, court mages) will have better prices than generalist shops. Fences (which includes Khajiit caravans) are particularly expensive.
 - Merchants will offer you discounts if you belong to the same guild, and further discounts if you are guild leader. You will also receive another discount if you are Thane of the city.
 - In big cities like Windhelm or Solitude, you will sell for more but also have to buy for more. The reverse is true in small towns like Riverwood.
 - You will have better prices with merchants of the same race, while merchants of hostile races (such as an argonian and a dunmer, or an altmer and a stormcloak nord) will have worse prices.
