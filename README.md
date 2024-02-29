@@ -168,7 +168,7 @@ Before starting, you can make choices in the Optional sections of the list, colo
 
 - Quickloot VR : Adds a looting menu similar to the one present in FO4
 - Smalls : Adds underwear to bodies when you loot them, doesn't work well with Quickloot.
-- Shadow of Skyrim - SL on defeat : Defeat system. Starts a sexlab scene whenever you are defeated by an enemy. It is integrated into the Shadow of Skyrim Nemesis system, but there's no configuration available to customize it.
+- Shadow of Skyrim - SL on defeat : Defeat system. Starts a sexlab scene whenever you are defeated by an enemy. It is integrated into the Shadow of Skyrim Nemesis system, but there's no configuration available to customize it. **Disable this if you don't want to get a forced sex scene on defeat.**
 - Yamete Redux : Alternative defeat system. It will require manual MCM configuration and is known to be finnicky.
 - CBPC VRSex - Sexlab Solutions Override : Will use the CBPC VRSex system instead of Sexlab to handle any sex interactions started by the Sexlab Solutions mod between the player and a female NPC, as long as the player is not in a victim context.
 - Dragonborn speaks naturally : Grants the ability to use voice commands to do things such as equip spells and items, shout, or select dialogue options. Requires Windows speech recognition.
