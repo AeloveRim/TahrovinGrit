@@ -360,24 +360,24 @@ Besides that, a few quests have been added : [Amorous Adventures](https://www.lo
 - [Skyshards](https://www.nexusmods.com/skyrimspecialedition/mods/60748) adds mysterious stones for you to hunt down throughout skyrim. Every 3 shards absorbed will grant an experience reward - small at first, but which will get larger every time. Every 15 shards absorbed will grant an extra perk.
 
 ## Gameplay advice
-The recommended difficulty for this list is Adept. The mods will provide plenty of difficulty on their own. If you still want to alter the difficulty, consider using the Simply Balanced MCM.
+- The recommended difficulty for this list is Adept. The mods will provide plenty of difficulty on their own. If you still want to alter the difficulty, consider using the Simply Balanced MCM.
 
-When training, be on the lookout for experience modifiers. For example, having read skill books will grant you experience modifiers that make your training more effective. However, training while exhausted will make your training less effective. If you are careless, you might not get a full skill level out of it.
+- When training, be on the lookout for experience modifiers. For example, having read skill books will grant you experience modifiers that make your training more effective. However, training while exhausted will make your training less effective. If you are careless, you might not get a full skill level out of it.
 
-Before you attempt to take down a dragon, make sure you have a good ranged attack. Even if you can survive a dragon in close quarters, they will not simply stand by while you hack at them.
+- Before you attempt to take down a dragon, make sure you have a good ranged attack. Even if you can survive a dragon in close quarters, they will not simply stand by while you hack at them.
 
-You can open a container normally instead of using Quickloot by keeping the interact button pressed for a second or two.
+- You can open a container normally instead of using Quickloot by keeping the interact button pressed for a second or two.
 
-CBPC VRSex grants a number of bonuses if you have sex with a higher level character than you, including a permanent point of health or magicka. If you spot a strong enemy and you're not in refractory cooldown, try to take her down nonlethally if you can !
+- CBPC VRSex grants a number of bonuses if you have sex with a higher level character than you, including a permanent point of health or magicka. If you spot a strong enemy and you're not in refractory cooldown, try to take her down nonlethally if you can !
 
-Sexlab Romance takes many factors into account to calculate whether the target is receptive to your advances : Your speechcraft skill, your relationship with the seduction target, your faction, the target's natural proclitivites, and so on. Notably, cold approaching someone you don't have at least a friendly relationship with is much more likely to fail. Accomplishing a quest for an NPC will often set their disposition to friendly - you'll be able to tell as their greetings change. Of course, if your speechcraft is high enough or there are enough other factors in play, you may not need to bother making friends first. If they turn you down, you can still keep trying again the next day (with worse odds of success).
+- Sexlab Romance takes many factors into account to calculate whether the target is receptive to your advances : Your speechcraft skill, your relationship with the seduction target, your faction, the target's natural proclitivites, and so on. Notably, cold approaching someone you don't have at least a friendly relationship with is much more likely to fail. Accomplishing a quest for an NPC will often set their disposition to friendly - you'll be able to tell as their greetings change. Of course, if your speechcraft is high enough or there are enough other factors in play, you may not need to bother making friends first. If they turn you down, you can still keep trying again the next day (with worse odds of success).
 
-When trading, consider which merchants to buy from and sell to.
-- Specialists (blacksmiths, alchemists, court mages) will have better prices than generalist shops. Fences (which includes Khajiit caravans) are particularly expensive.
-- Merchants will offer you discounts if you belong to the same guild, and further discounts if you are guild leader. You will also receive another discount if you are Thane of the city.
-- In big cities like Windhelm or Solitude, you will sell for more but also have to buy for more. The reverse is true in small towns like Riverwood.
-- You will have better prices with merchants of the same race, while merchants of hostile races (such as an argonian and a dunmer, or an altmer and a stormcloak nord) will have worse prices.
-- You will have better prices if the merchant is on friendly terms with you, which can usually be accomplished by completing a task for them. This will also override the "racism" factor entirely.
+- When trading, consider which merchants to buy from and sell to.
+  - Specialists (blacksmiths, alchemists, court mages) will have better prices than generalist shops. Fences (which includes Khajiit caravans) are particularly expensive.
+  - Merchants will offer you discounts if you belong to the same guild, and further discounts if you are guild leader. You will also receive another discount if you are Thane of the city.
+  - In big cities like Windhelm or Solitude, you will sell for more but also have to buy for more. The reverse is true in small towns like Riverwood.
+  - You will have better prices with merchants of the same race, while merchants of hostile races (such as an argonian and a dunmer, or an altmer and a stormcloak nord) will have worse prices.
+  - You will have better prices if the merchant is on friendly terms with you, which can usually be accomplished by completing a task for them. This will also override the "racism" factor entirely.
 
 ## The Extra Quests Profile
 When I play Skyrim, I usually like to load it up with a bunch of quests I haven't played before. When my playthrough is done, I'll remove the ones I stumbled upon and add a bunch of new ones for the next playthrough.
