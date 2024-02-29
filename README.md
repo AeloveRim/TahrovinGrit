@@ -194,8 +194,8 @@ That done, there are optional configuration changes you may wish to make in the 
 ![VRSexMCM](img/VRSexAutofuta.jpeg)
 - Creature animations may play if you selected a defeat mod among the optional NSFW mods, or if you use the Sexlab Enchantress spells. If you would like to disable them, go to Sexlab > Animation Settings > Allow Creature Animation.
 ![SexlabMCM](img/DisableCreatures.jpeg)
-- Sexlab Romance will give you [Romance] dialog prompts to attempt to seduce any NPC by default. If you would like to limit this to a specific gender or disable it altogether, select the corresponddng options in the Sexlab Romance MCM.
-![SexlabMCM](img/DisableCreatures.jpeg)
+- Sexlab Romance will give you [Romance] dialog prompts to attempt to seduce any NPC by default. If you would like to limit this, disable the "Enable Dialogue for Male NPCs" and/or "Enable Dialogue for Female NPCs" options in the Sexlab Romance MCM.
+![SexlabRomanceMCM](img/Romance.jpg)
 
 ## Controller Bindings
 [Controller bindings can be found here](ControllerBindings.md)
