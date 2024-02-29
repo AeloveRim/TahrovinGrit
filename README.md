@@ -354,6 +354,7 @@ Besides that, a few quests have been added : [Amorous Adventures](https://www.lo
 - [Voiced books of skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/94436) means you can pop an audiobook while traveling.
 - [Potion Toxicity](https://www.nexusmods.com/skyrimspecialedition/mods/32576) prevents you from overusing a bunch of potions in the middle of a fight, as they will grow less and less effective.
 - [Onyx Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/36227) replaces the weather mod, with much brighter nights. If that's not enough, I've added a lantern from Eld-beri II to your inventory.
+- [Skyshards](https://www.nexusmods.com/skyrimspecialedition/mods/60748) adds mysterious stones for you to hunt down throughout skyrim. Every 3 shards absorbed will grant an experience reward - small at first, but which will get larger every time. Every 15 shards absorbed will grant an extra perk.
 
 ## Gameplay advice
 The recommended difficulty for this list is Adept. The mods will provide plenty of difficulty on their own. If you still want to alter the difficulty, consider using the Simply Balanced MCM.
