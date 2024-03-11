@@ -379,6 +379,8 @@ Besides that, a few quests have been added : [Amorous Adventures](https://www.lo
   - You will have better prices with merchants of the same race, while merchants of hostile races (such as an argonian and a dunmer, or an altmer and a stormcloak nord) will have worse prices.
   - You will have better prices if the merchant is on friendly terms with you, which can usually be accomplished by completing a task for them. This will also override the "racism" factor entirely.
 
+- NPC Mages can be tricky opponents, especially at low level. However, low-level mages can run out of magicka fairly quickly, giving you an opportunity to strike. Also, keep in mind that thanks to [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549), you can stagger mages by power-attacking them while they are casting a spell.
+
 ## The Extra Quests Profile
 When I play Skyrim, I usually like to load it up with a bunch of quests I haven't played before. When my playthrough is done, I'll remove the ones I stumbled upon and add a bunch of new ones for the next playthrough.
 
