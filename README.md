@@ -351,11 +351,11 @@ Besides that, a few quests have been added : [Amorous Adventures](https://www.lo
 
 ## Other changes
 - [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) is the standing stone overhaul
-- [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) is the race overhaul 
+- [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) is the race overhaul
+- [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) is the alchemy overhaul 
 - [Quickloot VR](https://www.nexusmods.com/skyrimspecialedition/mods/102094) reduces the amount of menus
 - [Reading is good](https://www.nexusmods.com/skyrimspecialedition/mods/42026) means you no longer need to hold on to these skill books forever
 - [Voiced books of skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/94436) means you can pop an audiobook while traveling.
-- [Potion Toxicity](https://www.nexusmods.com/skyrimspecialedition/mods/32576) prevents you from overusing a bunch of potions in the middle of a fight, as they will grow less and less effective.
 - [Onyx Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/36227) replaces the weather mod, with much brighter nights. If that's not enough, I've added a lantern from Eld-beri II to your inventory.
 - [Skyshards](https://www.nexusmods.com/skyrimspecialedition/mods/60748) adds mysterious stones for you to hunt down throughout skyrim. Every 3 shards absorbed will grant an experience reward - small at first, but which will get larger every time. Every 15 shards absorbed will grant an extra perk.
 
