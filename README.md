@@ -381,6 +381,8 @@ Besides that, a few quests have been added : [Amorous Adventures](https://www.lo
 
 - NPC Mages can be tricky opponents, especially at low level. However, low-level mages can run out of magicka fairly quickly, giving you an opportunity to strike. Also keep in mind that, thanks to [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549), you can stagger mages by power-attacking them while they are casting a spell.
 
+- You will find a bunch of extra options for lingerie, skimpy clothing and accessories available for crafting at the tanning rack. If you'd rather not have to deal with all that, you can just remove the Tahrovin Lingerie Book from your inventory.
+
 ## The Extra Quests Profile
 When I play Skyrim, I usually like to load it up with a bunch of quests I haven't played before. When my playthrough is done, I'll remove the ones I stumbled upon and add a bunch of new ones for the next playthrough.
 
