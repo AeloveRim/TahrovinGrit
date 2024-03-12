@@ -364,7 +364,7 @@ Besides that, a few quests have been added : [Amorous Adventures](https://www.lo
 
 - When training, be on the lookout for experience modifiers. For example, having read skill books will grant you experience modifiers that make your training more effective. However, training while exhausted will make your training less effective. If you are careless, you might not get a full skill level out of it.
 
-- Before you attempt to take down a dragon, make sure you have a good ranged attack. Even if you can survive a dragon in close quarters, they will not simply stand by while you hack at them.
+- Before you attempt to take down a dragon, make sure you have a good ranged attack. Dragons will absolutely murder you in melee unless you block, parry, or ward against every one of their melee attacks, including when they land on you. Even if you can survive a dragon in close quarters, they will not simply stand by while you hack at them.
 
 - You can open a container normally instead of using Quickloot by keeping the interact button pressed for a second or two.
 
