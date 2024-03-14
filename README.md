@@ -352,7 +352,7 @@ Besides that, a few quests have been added : [Amorous Adventures](https://www.lo
 ## Other changes
 - [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) is the standing stone overhaul
 - [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) is the race overhaul
-- [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) is the alchemy overhaul 
+- [Alchemy Potions and Food Adjustments](https://www.nexusmods.com/skyrimspecialedition/mods/5877) is the alchemy overhaul 
 - [Quickloot VR](https://www.nexusmods.com/skyrimspecialedition/mods/102094) reduces the amount of menus
 - [Reading is good](https://www.nexusmods.com/skyrimspecialedition/mods/42026) means you no longer need to hold on to these skill books forever
 - [Voiced books of skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/94436) means you can pop an audiobook while traveling.
