@@ -18,8 +18,8 @@ Initial release
 - Fixed Neo's Controls
 - NPC warlocks can now carry a few Spellforge components
 - Increased Missives rewards for some of the kill quests, notably dragons
-- Tweaked Werewolves and Vampire Lords. Number of alternate form perks is now limited by character level.
+- Tweaked Werewolves and Vampire Lords. Number of alternate form perks is now limited by character level
 - Tweaked Durability VR settings
-- Throwing axes now use battleaxe models for compatibility reasons.
+- Throwing axes now use battleaxe models for compatibility reasons
 - Triple Triad rules will no longer disappear if you are thane of a hold
 
