@@ -10,10 +10,10 @@ Initial release
 - Added VRIK binding for TNG Futa
 
 ## Tahrovin Grit V1.1
-- Updated Community Shaders
+- Updated Community Shaders to 0.8.7
 - Added the new CS modules
-- Updated Weapon Throw VR
-- Updated VR Address Library
+- Updated Weapon Throw VR to 1.3.15
+- Updated VR Address Library to 0.121.0
 - Added Buy and Sell Torches
 - Fixed Neo's Controls
 - NPC warlocks can now carry a few Spellforge components
@@ -22,4 +22,3 @@ Initial release
 - Tweaked Durability VR settings
 - Throwing axes now use battleaxe models for compatibility reasons
 - Triple Triad rules will no longer disappear if you are thane of a hold
-
