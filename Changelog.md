@@ -22,3 +22,7 @@ Initial release
 - Tweaked Durability VR settings
 - Throwing axes now use battleaxe models for compatibility reasons
 - Triple Triad rules will no longer disappear if you are thane of a hold
+
+## Tahrovin Grit V1.11
+- Fixed a conflict between More Nasty Creatures and Skyrim Revamped
+- Fixed load order for Nightmare Night Tweaks
