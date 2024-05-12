@@ -175,6 +175,7 @@ Before starting, you can make choices in the Optional sections of the list, colo
 -  Occlusion FPS Boost : Should give you an FPS boost when outside, at the cost of some rare flickering in specific places (detected on some setups in the Windhelm bridge and on the College's bridge)
 -  Daedric Bitchs : Optional followers 
 -  Additemmenu : Lets you add items as you wish
+-  Strafing Nerf : Reduces your speed when going backwards or strafing to the side, making it a bit harder to avoid attacks and run circles around your enemies
 
 # Mod Setup
 
