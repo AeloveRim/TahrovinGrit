@@ -26,3 +26,13 @@ Initial release
 ## Tahrovin Grit V1.11
 - Fixed a conflict between More Nasty Creatures, Skyrim Revamped and DCO
 - Fixed load order for Nightmare Night Tweaks
+
+## Tahrovin Grit V1.12
+- Updated Eld-beri II to 2.32
+- Updated Weapon Throw VR to 1.3.16
+- Updated Engine Fixes VR to 1.26
+- Added Simple Realistic Archery VR - Attribute Cost Reload fix
+- Set iTrainingNumAllowedPerLevel to 0 in case there are vanilla trainers remaining (there are some in Extra Quests)
+- Fixed Glam'up Glamur
+- Added optional Strafing / Backwards running nerf
+- Added optional choice for blocking / parrying
