@@ -36,3 +36,6 @@ Initial release
 - Fixed Glam'up Glamur
 - Added optional Strafing / Backwards running nerf
 - Added optional choice for blocking / parrying
+- 
+## Tahrovin Grit V1.13
+- Fixed the blocking options 
