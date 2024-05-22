@@ -22,7 +22,11 @@ The following specs are recommended for the best experience:
 
 You will need at least `240GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `91GB`- ideally you want *at least* `350GB` for temporary Wabbajack work space. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
 
+**If your hardware is less powerful, try the performance tips here : (## My performance is really bad!)**
+
 **If you are using a Quest 2, there are a couple of performance recommendations that you can [find here](Oculus%20Performance%20Tips.md) if you are struggling to get the game to run well.**
+
+
 
 ## Accounts
 In terms of accounts you will need:
@@ -431,9 +435,9 @@ Tahrovin features the `Auto Sneak and Jump` mod which relies on your movement in
 ## My performance is really bad!
 Your CPU or GPU is too weak. Or, you don't have XMP enabled for your RAM.
 
-If you ignored the minimum specifications I wrote near the top of this readme, that's on you.
+This will probably happen if you ignored the minimum specifications I wrote near the top of this readme.
 
-There are still a couple things you can do to slightly increase performance : 
+There are still a few things you can do to slightly increase performance : 
 - Switch from SteamVR to OpenComposite
 - Switch from Skyrim Upscaler VR - DLAA to either Skyrim Upscaler VR - DLSS if your GPU allows it, or Skyrim Upscaler VR - FSR 
 - Disable everything in the CS Resources section except Reshade Toggler. If you are playing an existing game, do not disable Eld-beri either.
