@@ -22,7 +22,7 @@ The following specs are recommended for the best experience:
 
 You will need at least `240GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `91GB`- ideally you want *at least* `350GB` for temporary Wabbajack work space. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
 
-**If your hardware is less powerful, try the performance tips here : (## My performance is really bad!)**
+**If your hardware is less powerful, try the performance tips [here](#my-performance-is-really-bad)**
 
 **If you are using a Quest 2, there are a couple of performance recommendations that you can [find here](Oculus%20Performance%20Tips.md) if you are struggling to get the game to run well.**
 
