@@ -39,3 +39,27 @@ Initial release
 
 ## Tahrovin Grit V1.13
 - Fixed the blocking options 
+
+## Tahrovin Grit V1.14
+- Added Stoppage of Staggerlock
+- Added Guild Armor Enchantments
+- Added Seamless Arrow Nocking VR
+- Added No Player Position on World Map to optional mods
+- Removed CS Complex Parallax Materials for now
+- Updated Higgs to 1.9.0
+- Updated defeat script with a few fixes
+- Swapped spellwheel bars location
+- Removed the whiterun crystal from Lorkhan
+- Fixed werewolf sexlab compatibility
+- Werewolf attacks no longer knock enemies down
+- Werewolves can now ragdoll enemies by grabbing them if they are at <50% health and <400 max health
+- Werewolves can no longer be well-rested
+- Sleeping on a bedroll can no longer make you well-rested
+- When ambushed while sleeping in a dangerous location, you will now wake up with no magicka or stamina
+- Fatigue buffs and debuffs have been adjusted and affect both magicka and stamina regen
+- Inn room prices increased to 30 gold
+- Power attacks and shield bashes now require paying the full stamina cost
+- You will no longer be able to train if you are fatigued to the point of an EXP penalty
+- You will now receive the Lover's Comfort buff from successful Sexlab Romance attempts
+- Sneak archery is now more likely to alert enemies
+- Horses are now more likely to run away from fights
