@@ -63,3 +63,7 @@ Initial release
 - You will now receive the Lover's Comfort buff from successful Sexlab Romance attempts
 - Sneak archery is now more likely to alert enemies
 - Horses are now more likely to run away from fights
+
+  
+## Tahrovin Grit V1.15
+- Updated More Nasty Critters to v15 to make the list installable again
