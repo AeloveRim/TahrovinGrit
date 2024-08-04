@@ -108,5 +108,6 @@ Initial release
 - Added Night-blooming Violets for OStim Standalone
 - Added Fencing in the Dark for OStim Standalone
 - Added oComfort
+- Switched Amorous Adventures to the Ostim version
 - Added a custom patch to convert Sexlab Romance to Ostim Standalone
 - Added Pandora Behaviour Engine
