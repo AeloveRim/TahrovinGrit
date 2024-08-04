@@ -68,8 +68,8 @@ Initial release
 ## Tahrovin Grit V1.15
 - Updated More Nasty Critters to v15 to make the list installable again
 
-  
-## Tahrovin Grit V1.15
+
+## Tahrovin Grit V1.20
 - Added Midwood Isle to the main profile
 - Tweaked Midwood Isle so you're not drowned in pricy enchanted robes
 - Added Fortune's Tradehouse to the main profile
