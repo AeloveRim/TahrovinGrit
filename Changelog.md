@@ -111,3 +111,7 @@ Initial release
 - Switched Amorous Adventures to the Ostim version
 - Added a custom patch to convert Sexlab Romance to Ostim Standalone
 - Added Pandora Behaviour Engine
+
+
+## Tahrovin Grit V1.21
+- Fixed Ordinator - Scrambled Bugs Compatibility in the Extra Quests profile
