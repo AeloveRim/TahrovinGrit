@@ -442,7 +442,7 @@ This will probably happen if you ignored the minimum specifications I wrote near
 There are still a few things you can do to slightly increase performance : 
 - Switch from SteamVR to OpenComposite
 - Switch from Skyrim Upscaler VR - DLAA to either Skyrim Upscaler VR - DLSS if your GPU allows it, or Skyrim Upscaler VR - FSR 
-- Disable everything in the CS Resources section except Reshade Toggler. If you are playing an existing game, do not disable Eld-beri either.
+- Disable everything in the CS Resources section. However, if you are playing an existing game, do not disable Eld-beri.
 - Disable everything in the ReShade section
 - Activate VR FPS Stabilizer - Occlusion FPS boost
 - Reinstall Faster HDT-SMP and select AVX or AVX2 if your CPU supports it
