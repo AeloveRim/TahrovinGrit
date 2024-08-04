@@ -93,7 +93,7 @@ Initial release
 - Updated Spell Wheel VR to v1.5.1
 - Updated VRIK Player Avatar to v0.8.3
 - Updated PLANCK to v0.6.5
-- Added StatFX
+- Added StatFX - ImageSpace Modifiers for Health Magicka Stamina
 - Removed Better Resource Warnings
 - Added Ordinator - Scrambled Bugs Compatibility
 - Added Stable Hands
