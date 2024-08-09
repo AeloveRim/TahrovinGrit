@@ -193,6 +193,8 @@ When you are done, **save your game, go back to the main menu, then load that sa
 
 That done, there are optional configuration changes you may wish to make in the Mod Configuration Menu :
 
+- The Better Resources Warning mod will alert you if your stats (Health, Magicka, Stamina) are low by giving the screen a shade of red, blue, or black and white. You can activate one or all of them as you wish. For example, to activate the Health warning go to Better Resources Warning > Health Options and set Max Modifier Magnitude on the top-right to 0.5
+![BetterResourcesMCM](img/BetterResources.jpeg)
 - The CBPC VRSex mod will create basic sex interactions with female NPCs without taking control of the player, but requires the player to have a penis. If you wish to use it but are playing a female character, the mod can let your character grow a penis temporarily during VRSex scenes. Go to CBPC VRsex and check the "Auto-futa" option. Don't check the option if you are playing a male character, or a female character that is already permanently futa.
 ![VRSexMCM](img/VRSexAutofuta.jpeg)
 - Creature animations may play if you selected a defeat mod among the optional NSFW mods, or if you use the Sexlab Enchantress spells. If you would like to disable them, go to Sexlab > Animation Settings > Allow Creature Animation.
@@ -271,13 +273,11 @@ Other changes compared to base Tahrovin :
 - Sexlab Eager NPCs has been removed, and [Sexlab Romance](https://www.loverslab.com/topic/127240-sexlab-romance-se/) has been added.
 
 ## Playing a warrior
-The main change you will notice as a warrior is that vanilla blocking has been removed entirely in favor of [Pseudo Physical Weapon Collision and Parry](https://www.nexusmods.com/skyrimspecialedition/mods/100781). To block with a shield, you no longer simply have to hold the shield in front of you. You must intercept the enemy's attack with it, while holding the trigger button. If you have a timed-block perk, you can trigger it by pressing the trigger to block at the moment of impact. Weapons no longer block at all, they can only use the Pseudo-physical parry system by intercepting the enemy's attack. By moving the weapon or shield fast enough as you parry or block, you may even stagger the enemy. Blocking with a shield will cost Stamina instead of Health. Parrying with a weapon will cost stamina if you are slow, but if you move the weapon fast enough you will regain Stamina instead of losing it. If you are out of Stamina, weapon parrying becomes impossible and shield blocking starts to use Health instead.
+The main change you will notice as a warrior is that vanilla blocking has been removed entirely in favor of [Pseudo Physical Weapon Collision and Parry](https://www.nexusmods.com/skyrimspecialedition/mods/100781). To block with a shield, you no longer simply have to hold the shield in front of you. You must intercept the enemy's attack with it, while holding the trigger button. If you have a timed-block perk, you can trigger it by pressing the trigger to block at the moment of impact. Weapons no longer block at all, they can only use the Pseudo-physical parry system by intercepting the enemy's attack. By moving the weapon or shield fast enough as you parry or block, you may even stagger the enemy. Both blocking and parrying will cost Stamina instead of Health. If you are out of Stamina, weapon parrying becomes impossible and shield blocking starts to use Health instead.
 
 You will also be able to block and parry arrows and spell projectiles by intercepting them physically. While holding trigger, projectiles will be slowed at the cost of a bit of magicka, making that process easier.
 
 The settings for pseudo-physical parry are less forgiving than the ones in base Tahrovin. You will not be able to parry by simply standing still, make sure to move your weapon as you intercept.
-
-All attacks, even basic ones, cost a bit of stamina depending on the type of weapon being used (less stamina for daggers, more for two-handed weapons). When out of Stamina, you will be slower and deal significantly less damage. It might be better to pace yourself and focus on defense when you start running low - remember that a fast enough parry will also help you regain Stamina.
 
 [Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374) is present, but is meant to be used only with specific throwing weapons. These weapons are cheap, disposable and relatively weak in melee, but much more effective when thrown. They can be bought in shops or crafted.
 
@@ -354,7 +354,7 @@ The encounter zones for the main quest, starting from Bleak Falls Barrow, have b
 
 Delaying the main quest doesn't mean Alduin will stay put forever. After 90 days, if you haven't finished the main quest, Alduin will come seeking to destroy you. This will be an easier fight than the actual, full-powered Alduin you will have to fight in the main quest, but you should still make sure you have grown strong enough to fend him off. Once you do, you will have 20 more days before he seeks you out again. Take care and don't slack off on your training : every time he comes back, Alduin will be even more powerful !
 
-Besides that, a few quests have been added : [Amorous Adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/) (with the player text revision), [The forgotten city](https://www.nexusmods.com/skyrimspecialedition/mods/1179), [The chain of time](https://www.nexusmods.com/skyrimspecialedition/mods/95062), [Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120), [Fortune's Tradehouse](https://www.nexusmods.com/skyrimspecialedition/mods/22755), [The shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167), and many of [jayserpa's vanilla quest expansions](https://www.nexusmods.com/skyrimspecialedition/users/5201727) have been integrated.
+Besides that, a few quests have been added : [Amorous Adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/) (with the player text revision), [The forgotten city](https://www.nexusmods.com/skyrimspecialedition/mods/1179), [The chain of time](https://www.nexusmods.com/skyrimspecialedition/mods/95062), [The shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167), and many of [jayserpa's vanilla quest expansions](https://www.nexusmods.com/skyrimspecialedition/users/5201727) have been integrated.
 
 ## Other changes
 - [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) is the standing stone overhaul
@@ -442,7 +442,7 @@ This will probably happen if you ignored the minimum specifications I wrote near
 There are still a few things you can do to slightly increase performance : 
 - Switch from SteamVR to OpenComposite
 - Switch from Skyrim Upscaler VR - DLAA to either Skyrim Upscaler VR - DLSS if your GPU allows it, or Skyrim Upscaler VR - FSR 
-- Disable everything in the CS Resources section. However, if you are playing an existing game, do not disable Eld-beri.
+- Disable everything in the CS Resources section except Reshade Toggler. If you are playing an existing game, do not disable Eld-beri either.
 - Disable everything in the ReShade section
 - Activate VR FPS Stabilizer - Occlusion FPS boost
 - Reinstall Faster HDT-SMP and select AVX or AVX2 if your CPU supports it
