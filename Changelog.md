@@ -124,3 +124,5 @@ Initial release
 - Updated Misty Skye to v7.2
 - Updated Misty Skye 3BA patch to the Nexus version
 - Updated Pseudo Physical Weapon Collision and Parry - Tweaked to v1.02b
+- Fixed issues with compatibility issues with Ostim Amorous Adventures
+- Fixed Vampire Lord transformation for male players
