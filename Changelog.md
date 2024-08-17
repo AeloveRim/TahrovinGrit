@@ -126,3 +126,4 @@ Initial release
 - Updated Pseudo Physical Weapon Collision and Parry - Tweaked to v1.02b
 - Fixed issues with compatibility issues with Ostim Amorous Adventures
 - Fixed Vampire Lord transformation for male players
+- To prevent some cases of suicidal horses, horses are now immune to fall damage when not being ridden
