@@ -4,9 +4,9 @@ First things first: **this list contains adult content and you must be of legal 
 
 ***Having issues with the modlist? [FAQ \& Common Issues](#faq--common-issues)***
 
-Support and general talk about Tahrovin resides on the Jolly Co-operators Discord:
+Support and general talk about Tahrovin resides on iAmMe's Discord:
 
-[![DiscordButton](img/DiscordButton.png)](https://discord.gg/jolly-coop)
+[![DiscordButton](img/DiscordButton.png)](https://discord.gg/iammodlist)
 
 # What is Tahrovin Grit ?
 Tahrovin Grit is a fork of Tahrovin, a NSFW Skyrim VR modlist. It retains some of the eye-candy its predecessor is known for, but opts for more grounded outfits and slightly less intrusive NSFW mods. It also features light survival gameplay and aims towards a slower-paced character growth, reworking many gameplay mechanics to provide a well-balanced challenge throughout your playthrough.
