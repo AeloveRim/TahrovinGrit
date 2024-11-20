@@ -127,3 +127,7 @@ Initial release
 - Fixed compatibility issues with Ostim Amorous Adventures
 - Fixed Vampire Lord transformation for male players
 - Horses are now immune to fall damage when not being ridden
+
+
+## Tahrovin Grit V1.24
+- Updated Sexlab Cum Overlays Extended to v0.1.0 to make the list installable again
