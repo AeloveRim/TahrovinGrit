@@ -139,6 +139,9 @@ Initial release
 - Added perks in Light and Heavy armor that make your horses faster
 - The dressup clothing items from the tahrovin lingerie book can now all be crafted with leather
 - "As a Leaf" Light armor perk now also unlocks a double-jump ability
+- The prerequisites for mastery perks for all skills have been raised to 20/40
+- Pickpocketing mastery carrying capacity boost is now doubled to 100/200 instead of 50/100
+- Reduced the prerequisites for the Lawless Times Pickpocketing perk to 40/70
 - Fixed Neo's Controls
 - Added Meridia's Order to the main profile
 - Added Identity Crisis to the main profile
