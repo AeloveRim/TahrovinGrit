@@ -131,3 +131,49 @@ Initial release
 
 ## Tahrovin Grit V1.24
 - Updated Sexlab Cum Overlays Extended to v0.1.0 to make the list installable again
+
+## Tahrovin Grit V1.30-beta
+- Added Vanilla Start in Optional Mods
+- Added scrolls that allow oneshot fast travel, available from vendors that sell soulgems
+- Tweaks to horses (player horses are now protected, kick disabled while mounted, horse price back to 1000)
+- Added perks in Light and Heavy armor that make your horses faster
+- The dressup clothing items from the tahrovin lingerie book can now all be crafted with leather
+- "As a Leaf" Light armor perk now also unlocks a double-jump ability
+- Fixed Neo's Controls
+- Added Meridia's Order to the main profile
+- Added Identity Crisis to the main profile
+- Added some patches and fixes for Meridia's Order
+- Added Demon of dream to the Extra Quests profile
+- Added Gravewind to the Extra Quests profile
+- Added Mihail's Classic Ghosts
+- Added Mihail's Draugr Cavalry
+- Added Mihail's Imps
+- Added Mihail's Lesser Griffins
+- Added Mihail's will o' wisp
+- Added Dismembering Framework
+- Added Sleeping Expanded
+- Added Smart NPC Potions
+- Added new hagraven and glenmoril witch dressed
+- Added New Spriggan Matron
+- Added New Spriggans
+- Added Ordinator Drop Bear Trap Power
+- Added some patches for Inigo and Auri
+- Added Sil Gahrot
+- Added Smooth Carriage Ride VR
+- Added Favorite Misc Items VR
+- Added Essential Favorites VR
+- Updated No Me Molestes
+- Updated Baka's ABC to v3.16
+- Updated Pandora Engine to v2.4.0-beta-h
+- Updated PLANCK to v0.6.6
+- Updated HIGGS to v1.10
+- Updated VRIK to v0.8.4
+- Updated powerofthree's Tweaks to v1.11
+- Updated Papyrus Extender to v5.8.0
+- Updated VR Address Library to v0.158
+- Updated Menu Mouse Fix to v1.6.0
+- Updated Sprint Jump VR to v2.0.2
+- Updated XP32 Maximum Skeleton to v5.06
+- Updated More Nasty Critters to v15.5
+- Updated Poached Bugs to v0.5.0
+- Updated Val Serano to v2.1
