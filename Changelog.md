@@ -133,6 +133,8 @@ Initial release
 - Updated Sexlab Cum Overlays Extended to v0.1.0 to make the list installable again
 
 ## Tahrovin Grit V1.30-beta
+- Added Performance Profile
+- Added Simplicity ENB Profile
 - Added Vanilla Start in Optional Mods
 - Added scrolls that allow oneshot fast travel, available from vendors that sell soulgems
 - Tweaks to horses (player horses are now protected, kick disabled while mounted, horse price back to 1000)
@@ -165,6 +167,10 @@ Initial release
 - Added Smooth Carriage Ride VR
 - Added Favorite Misc Items VR
 - Added Essential Favorites VR
+- Added Next-gen decapitations
+- Removed Enchanted Weapon Charge Fix
+- Updated Spell Wheel VR to v1.5.5
+- Updated Ostim Standalone to v7.3.3a
 - Updated No Me Molestes
 - Updated Baka's ABC to v3.16
 - Updated Pandora Engine to v2.4.0-beta-h
