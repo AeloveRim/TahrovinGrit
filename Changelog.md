@@ -137,6 +137,7 @@ Initial release
 - Added Simplicity ENB Profile
 - Added Vanilla Start in Optional Mods
 - Added scrolls that allow oneshot fast travel, available from vendors that sell soulgems
+- Added Obody NG
 - Tweaks to horses (player horses are now protected, kick disabled while mounted, horse price back to 1000)
 - Added perks in Light and Heavy armor that make your horses faster
 - The dressup clothing items from the tahrovin lingerie book can now all be crafted with leather
@@ -169,6 +170,7 @@ Initial release
 - Added Essential Favorites VR
 - Added Next-gen decapitations
 - Removed Enchanted Weapon Charge Fix
+- Removed Autobody NG
 - Updated Spell Wheel VR to v1.5.5
 - Updated Ostim Standalone to v7.3.3a
 - Updated No Me Molestes
