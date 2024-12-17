@@ -145,6 +145,8 @@ Initial release
 - The prerequisites for mastery perks for all skills have been raised to 20/40
 - Pickpocketing mastery carrying capacity boost is now doubled to 100/200 instead of 50/100
 - Reduced the prerequisites for the Lawless Times Pickpocketing perk to 40/70
+- Removed the Ghost of the Tenth Eye and Night Eye illusion perks
+- Changed the Spot Detection sneak perk into the Sharp Eye sneak perk, which incorporates both Spot Detection and Night Eye
 - Fixed Neo's Controls
 - Added Meridia's Order to the main profile
 - Added Identity Crisis to the main profile
@@ -188,3 +190,5 @@ Initial release
 - Updated More Nasty Critters to v15.5
 - Updated Poached Bugs to v0.5.0
 - Updated Val Serano to v2.1
+- Updated Seamless Arrow Nocking to v1.04
+- Updated Weapon Throw VR to v1.3.19
