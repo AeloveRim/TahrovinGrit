@@ -416,6 +416,11 @@ Check in your `Tahrovin\Stock Game` folder for an `openvr_api.dll` file. If this
 
 When using ENB Organizer, **always** disable an option *then* enable another. Not doing this will mess up the files.
 
+
+## There's a black square / weirdly textured square in the middle of my view
+Press END to open the Skyrim Upscaler menu and toggle TAA off and then back on again, the square will go away after this. It may or may not come back next session, just follow the same steps again.
+If it's coming back too often, you can prevent it completely by just keeping TAA off in the upscaler menu.
+
 ## I get an OpenComposite error when launching the game?
 Like this?
 
