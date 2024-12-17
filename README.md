@@ -233,6 +233,15 @@ You can technically also use the Knockout Arts power instead of Incubus Arts, bu
 
 The third option, Molag Bal's Subjugation, is easier to use than both Incubus Arts and Knockout Arts but is entirely unavailable as a starting character and requires investing into Illusion.
 
+## Sexlab and Ostim
+Sexlab scenes are used in this list mostly in three situations : You are defeated by an enemy, you use Sexlab Enchantress spells, or you start a scene from Sexlab Solutions.
+Sexlab scenes can be directed through gestures, similarly to vrik gestures, though if nothing is done they will complete automatically.
+
+Ostim scenes are started by most of the other mods, such as the Romance mod, the follower mods or Amorous Adventures. 
+Ostim scenes can be directed by using the Spell Wheel.
+
+As long as there is penetration, you will still receive the bonuses from CBPC VRSex during Sexlab or Ostim scenes.
+
 ## Playing a mage
 Being able to use magic is not a given in Tahrovin Grit and will require an investment. Your magicka regeneration in combat is faster, but your starting magicka is only 50 and you do not start with any spells (other than the various debug spells) unless you are one of the races granted a bonus spell (Breton, Dunmer, Altmer). Furthermore, you will find that spell books are prohibitively expensive for a starting character. You will still find spell books in the world as usual, but it may be tempting to sell them instead of learning the spell they contain.
 
