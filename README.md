@@ -208,9 +208,9 @@ If this is your first time playing Skyrim VR, you may want to watch these tutori
 - https://youtu.be/Nd9A-_G2eXU
 
 ## Starting out
-When you first start a new game, you won't find yourself inside of Skyrim anywhere. Instead, you will be inside of the Realm of Lorkhan. This mod replaces the vanilla Skyrim intro, which is known to be extremely buggy, especially in VR. 
+When you first start a new game, depending on your choice of optional mods, you may either play through the vanilla intro, or skip it and find yourself directly inside the Realm of Lorkhan where you will set up your character.
 
-*I'm sure you've seen the vanilla intro already, right?* 
+*If you chose the vanilla start, you will still be able to reach the Realm of Lorkhan during the intro from a crystal inside Helgen's keep.* 
 
 The Realm of Lorkhan mod allows you to craft your character. You may pick a shrine and standing stone bonus to start with. Make sure to speak with Sera the Trainer to increase your starting skills as you wish. If you don't get a training dialog when talking to her, make sure you followed my earlier instructions by **saving your game, going back to the main menu then reloading.**
 
@@ -223,7 +223,7 @@ Sera the Trainer charges less gold for her training than most other trainers in 
 Once you teleport at one of the crystals, you'll be dumped into Skyrim in the place you chose. Make your choices wisely though - once you leave, you cannot return.
 
 ## CBPC VRSex
-[CBPC VRSex](https://www.loverslab.com/files/file/29662-cbpc-vrsex/) is a mod to create basic sex interactions without taking control away from the player. It requires the player to have a penis. If you are playing a non-futa female, you may use the "Auto-futa" option in the MCM to temporarily grow a penis during VRSex scenes. 
+[CBPC VRSex](https://www.loverslab.com/files/file/29662-cbpc-vrsex/) is a mod to create basic sex interactions without taking control away from the player. ~~It requires the player to have a penis. If you are playing a non-futa female, you may use the "Auto-futa" option in the MCM to temporarily grow a penis during VRSex scenes.~~ Penis not required anymore, vagina on vagina collision works fine now. Though you can still use Auto-futa if you'd like.
 
 If you wish to use that system, read the manual in your inventory or on the stand next to the "VRSex Training Dummy" NPC in the Realm of Lorkhan. Feel free to try out the mod on that Training Dummy to figure out how things work.
 
@@ -283,7 +283,7 @@ All attacks, even basic ones, cost a bit of stamina depending on the type of wea
 Finally, you will no longer be able to do power attacks unless you are able to pay the full stamina cost.
 
 ## Playing a thief
-There's not a lot of changes on that end. Pickpocketing and lockpicking are harder than usual if you're unskilled, but easier if you do raise your skills. [More NPC Pocket Money](https://www.nexusmods.com/skyrimspecialedition/mods/31375) adds a bit of extra gold to citizens for you to steal. [Broken picks](https://www.nexusmods.com/skyrimspecialedition/mods/95275) makes it so breaking your lockpick will throw you out of the lockpicking minigame and force you to start from scratch - make sure to check for patrolling guards ! Otherwise, it's just the usual [Vokriinator](https://www.nexusmods.com/skyrimspecialedition/mods/26702) stuff, same as base Tahrovin.
+There's not a lot of changes on that end. Pickpocketing and lockpicking are harder than usual if you're unskilled, but easier if you do raise your skills. [More NPC Pocket Money](https://www.nexusmods.com/skyrimspecialedition/mods/31375) adds a bit of extra gold to citizens for you to steal. [Broken picks](https://www.nexusmods.com/skyrimspecialedition/mods/95275) makes it so breaking your lockpick will throw you out of the lockpicking minigame and force you to start from scratch - make sure to check for patrolling guards ! You will no longer have to join the thieves' guild to sell stolen loot. Anything recognizably stolen - which most things won't be - can now be sold at any Khajiit caravan. Otherwise, it's just the usual [Vokriinator](https://www.nexusmods.com/skyrimspecialedition/mods/26702) stuff, same as base Tahrovin.
 
 ## Leveling
 Instead of increasing your level by raising your skills, the [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) mod lets you increase your level as you adventure, exploring Skyrim and accomplishing quests. The leveling curve has been modified to provide a slower-paced experience.
@@ -315,7 +315,9 @@ Buy or craft a tent at a tanning rack to sleep out in the wild - but be wary of 
 
 If you have enough firewood in your inventory, you can use it by selecting it in your inventory to create campfires and warm yourself up. By setting a tent near trees, you may turn it into a Wood-chopping tent and get some more firewood for your campfire, but make sure you have a Woodcutter's axe to chop the wood !
 
-Fast travel is disabled, but there are now more carriage routes available thanks to [Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379). Consider buying a horse when able, but take care not to get them killed. A horse will also be useful to carry more things : Thanks to [Horse Storage](https://www.nexusmods.com/skyrimspecialedition/mods/3838) you can access your horse's inventory by sneaking while activating them. You can also call your horse at any time while you are outside with the [Call your Horse](https://www.nexusmods.com/skyrimspecialedition/mods/49595) power.
+Fast travel is disabled, but can still be employed through one-shot scrolls of Rapid Transportation, available at general vendors, court wizards, and generally any merchant that would sell soulgems. These scrolls can also be crafted by converting common soulgems at a Tanning Rack. Using this method regularly can be expensive until late game though - until then, there are now more carriage routes available thanks to [Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379). 
+
+Consider buying a horse when able, but take care not to get them killed. A horse will also be useful to carry more things : Thanks to [Horse Storage](https://www.nexusmods.com/skyrimspecialedition/mods/3838) you can access your horse's inventory by sneaking while activating them. You can also call your horse at any time while you are outside with the [Call your Horse](https://www.nexusmods.com/skyrimspecialedition/mods/49595) power.
 
 Animals will drop a little bit more loot, and their pelts are now a bit more valuable. It will not necessarily always be better to turn it all into leather. 
 
@@ -353,7 +355,7 @@ The encounter zones for the main quest, starting from Bleak Falls Barrow, have b
 
 Delaying the main quest doesn't mean Alduin will stay put forever. After 90 days, if you haven't finished the main quest, Alduin will come seeking to destroy you. This will be an easier fight than the actual, full-powered Alduin you will have to fight in the main quest, but you should still make sure you have grown strong enough to fend him off. Once you do, you will have 20 more days before he seeks you out again. Take care and don't slack off on your training : every time he comes back, Alduin will be even more powerful !
 
-Besides that, a few quests have been added : [Amorous Adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/) (with the player text revision), [The forgotten city](https://www.nexusmods.com/skyrimspecialedition/mods/1179), [The chain of time](https://www.nexusmods.com/skyrimspecialedition/mods/95062), [Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120), [Fortune's Tradehouse](https://www.nexusmods.com/skyrimspecialedition/mods/22755), [The shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167), and many of [jayserpa's vanilla quest expansions](https://www.nexusmods.com/skyrimspecialedition/users/5201727) have been integrated.
+Besides that, a few quests have been added : [Amorous Adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/) (with the player text revision), [The forgotten city](https://www.nexusmods.com/skyrimspecialedition/mods/1179), [The chain of time](https://www.nexusmods.com/skyrimspecialedition/mods/95062), [Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120), [Fortune's Tradehouse](https://www.nexusmods.com/skyrimspecialedition/mods/22755), [The shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167), [Meridia's Order](https://www.nexusmods.com/skyrimspecialedition/mods/102584), [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634), and many of [jayserpa's vanilla quest expansions](https://www.nexusmods.com/skyrimspecialedition/users/5201727) have been integrated.
 
 ## Other changes
 - [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) is the standing stone overhaul
