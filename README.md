@@ -441,10 +441,10 @@ If you have modified Tahrovin, ignore the previous advice and keep to the `#tahr
 Raise your left hand, palm facing upwards, to activate the compass and your stat bars. Raise your right hand in the same way for your needs bars. If you wish, equip the soul gauges in your inventory and assign them to stats. When it asks for hand offset, I recommend you set the offset to **3**.
 
 ## Is there a way for me to see myself?
-Raise your right hand above your head and rotate your wrist to turn your character. If you put your right hand down, your character should stay in selfie mode - re-raise your right hand to disable.
+Go to the VRIK MCM and Activate the Selfie mod. Then, raise your right, left, or both hands above your head depending on your choice and rotate your wrist to turn your character. If you put your hand down, your character should stay in selfie mode - re-raise your hand to disable.
 
 ## How do I change my or an NPC's body?
-Autobody. Default VRIK gesture is Right Thumbstick click + Controller Down. Want to change the Autobody gesture? [Read this.](https://github.com/iAmMe27/Tahrovin/wiki/Changing-Autobody-Hotkey)
+Obody. Default VRIK gesture is Right Thumbstick click + Controller Down. Want to change the Obody gesture? [Read this.](https://github.com/iAmMe27/Tahrovin/wiki/Changing-Autobody-Hotkey)
 
 ## Playing in Seated Mode
 Tahrovin features the `Auto Sneak and Jump` mod which relies on your movement in real life to jump and crouch, therefore making it not very useful to you if you prefer to play in seated mode. Unless you'd like to try sneaking everywhere you go, you should be fine to disable this mod from the "Gameplay Mods" section in MO2.
