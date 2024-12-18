@@ -132,7 +132,7 @@ Initial release
 ## Tahrovin Grit V1.24
 - Updated Sexlab Cum Overlays Extended to v0.1.0 to make the list installable again
 
-## Tahrovin Grit V1.30-beta
+## Tahrovin Grit V1.30
 - Added Performance Profile
 - Added Simplicity ENB Profile
 - Added Vanilla Start in Optional Mods
