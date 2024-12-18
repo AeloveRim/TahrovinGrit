@@ -169,6 +169,7 @@ Refer to the [Skyrim VR Upscaler](#skyrim-vr-upscaler-selection) section.
 
 Before starting, you can make choices in the Optional sections of the list, colored in Orange in MO2. Pick a set of controller bindings, a defeat mod, a Vampire Lord body mod depending on your character's gender, and any of the other optional mods that interest you. Make sure to do so **before you start a new game** as enabling or disabling some of these mods mid-save can be a bad idea : 
 
+- Vanilla Start : New games will start with the vanilla skyrim intro instead od throwing you straight into the Realm of Lorkhan
 - Quickloot VR : Adds a looting menu similar to the one present in FO4
 - Smalls : Adds underwear to bodies when you loot them, doesn't work well with Quickloot.
 - Shadow of Skyrim - SL on defeat : Defeat system. Starts a sexlab scene whenever you are defeated by an enemy. It is integrated into the Shadow of Skyrim Nemesis system, but there's no configuration available to customize it. **Disable this if you don't want to get a forced sex scene on defeat.**
