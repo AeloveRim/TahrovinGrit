@@ -192,7 +192,7 @@ Initial release
 - Updated Val Serano to v2.1
 - Updated Seamless Arrow Nocking to v1.04
 - Updated Weapon Throw VR to v1.3.19
-- 
+  
 ## Tahrovin Grit V1.31 - beta 1
 - Fixed a long-standing issue with some specific NPC bodies
 - Fixed follower xp penalty mistakenly counting minions from ordinator perks
