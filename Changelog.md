@@ -196,7 +196,6 @@ Initial release
 ## Tahrovin Grit V1.31 - beta 1
 - Fixed a long-standing issue with some specific NPC bodies
 - Fixed follower xp penalty mistakenly counting minions from ordinator perks
-- Removed clockwork revive in mcm
 - Fixed obody gesture
 - Removed Simplicity ENB VR
 - Added Enhancer ENB VR
