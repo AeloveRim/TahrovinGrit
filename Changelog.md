@@ -192,3 +192,15 @@ Initial release
 - Updated Val Serano to v2.1
 - Updated Seamless Arrow Nocking to v1.04
 - Updated Weapon Throw VR to v1.3.19
+- 
+## Tahrovin Grit V1.31 - beta 1
+- Fixed an issue with WNAMs
+- Fixed follower xp penalty mistakenly counting minions from ordinator perks
+- Removed clockwork revive in mcm
+- Fixed obody gesture
+- Removed Simplicity ENB VR
+- Added Enhancer ENB VR
+- Added More Interactive Objects VR
+- Updated PLANCK to v0.7.0
+- Updated HIGGS to v1.10.2
+- Updated VR Address Library to v0.163
