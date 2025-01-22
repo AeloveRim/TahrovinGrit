@@ -193,13 +193,16 @@ Initial release
 - Updated Seamless Arrow Nocking to v1.04
 - Updated Weapon Throw VR to v1.3.19
   
-## Tahrovin Grit V1.31 - beta 1
+## Tahrovin Grit V1.31
 - Fixed a long-standing issue with some specific NPC bodies
 - Fixed follower xp penalty mistakenly counting minions from ordinator perks
 - Fixed obody gesture
+- Modified the End-Times message to be more appropriate
+- Removed some broken Coco weapons from the constructible item list
 - Removed Simplicity ENB VR
 - Added Enhancer ENB VR
 - Added More Interactive Objects VR
-- Updated PLANCK to v0.7.0
+- Updated Next-Gen Decapitations to v1.2.0
+- Updated PLANCK to v0.7.1
 - Updated HIGGS to v1.10.2
 - Updated VR Address Library to v0.163
