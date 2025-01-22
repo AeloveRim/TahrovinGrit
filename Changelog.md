@@ -198,7 +198,7 @@ Initial release
 - Fixed follower xp penalty mistakenly counting minions from ordinator perks
 - Fixed obody gesture
 - Modified the End-Times message to be more appropriate
-- Removed some broken Coco weapons from the constructible item list
+- Removed some OP Coco weapons from the constructible item list
 - Removed Simplicity ENB VR
 - Added Enhancer ENB VR
 - Added More Interactive Objects VR
