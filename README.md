@@ -286,6 +286,8 @@ You will also be able to block and parry arrows and spell projectiles by interce
 
 The settings for pseudo-physical parry are less forgiving than the ones in base Tahrovin. You will not be able to parry by simply standing still, make sure to move your weapon as you intercept.
 
+You can throw humanoid enemies either by yanking them with both hands, or by yanking their foot. This requires a fair amount of stamina, but not only will it make the enemy vulnerable, it will also give you a brief window while they are down during which you will be able to strip them of their weapon and/or armor, by either grabbing them with both hands or using the gravity glove.
+
 All attacks, even basic ones, cost a bit of stamina depending on the type of weapon being used (less stamina for daggers, more for two-handed weapons). When out of Stamina, you will be slower and deal significantly less damage. It might be better to pace yourself and focus on defense when you start running low - remember that a fast enough parry will also help you regain Stamina.
 
 [Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374) is present, but is meant to be used only with specific throwing weapons. These weapons are cheap, disposable and relatively weak in melee, but much more effective when thrown. They can be bought in shops or crafted.
@@ -351,6 +353,7 @@ Note that if your followers are still fighting when you are defeated, they will 
 ## Followers
 When a follower falls in combat, they will not get back up by themselves until the combat is over. If you want them back in the fight, you can heal them with healing spells, or with a potion.
 To feed a potion to a follower, simply put it in your hand with Spellwheel, put it in your follower's mouth and let it drop.
+You can also simply throw the potion at the ground next to the follower to apply the effect.
 
 While followers may be a powerful asset, having too many of them may be detrimental to your own growth. If you have two or more followers, you will get less experience from exploring, clearing areas, or completing quests and objectives. The more followers you have, the less experience you will get: 
 - 1 follower : No EXP penalty
