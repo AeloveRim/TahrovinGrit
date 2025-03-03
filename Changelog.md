@@ -206,3 +206,50 @@ Initial release
 - Updated PLANCK to v0.7.1
 - Updated HIGGS to v1.10.2
 - Updated VR Address Library to v0.163
+  
+## Tahrovin Grit V1.40
+- Updated Ordinator - Drop bear trap Power to v1.2
+- Updated Next-gen decapitations to v1.2.0
+- Updated HIGGS to v1.10.5
+- Updated CBPC VRSex to v1.42
+- Added VR Console Selection Fix
+- Added Immersive Crossbow Reload VR
+- Added Dwarven Ballista Texture Fix
+- Added some load screens with grit-specific tips
+- Added a bunch of modded NPCs to the trainers list
+- Removed the constraints on some NPCs that prevented them from training the player
+- You will now be asked to pick an orientation upon opening the VRSex manual. VRSex and its buffs will not be activated until you do.
+- Nerfed Vampire's seduction, it now only works if the NPC is out of combat
+- Significantly boosted Vampire's Shroud's duration
+- Attacks with two-handed weapons now cost more stamina if you are wielding them with only one hand
+- The health penalty for dying without enough gold or dragon souls now increases to 2 health at level 10 and 3 health at level 20
+- Guards no longer start a sexlab scene when defeating you
+- Cleaned up constructible items a bit more
+- Highly-skilled craftsmen will now charge more for their tempering, crafting and enchanting services no matter how small the order. This only affects craftsmen with a skill above 40. You can see their skill when requesting crafting services.
+- Player's base movement speed has been decreased
+- Movement speed boost from the longstrider spell has been increased
+- Removed the Weapon Ward effect from spellsiphon as it has been added to a perk
+- Removed Bedrock Perk from Heavy Armor as it was literally useless
+- Live ragdolled NPCs can now only have their armor and equipped weapons looted with the gravity gloves if you ragdolled them with a yank or by using the Mighty Grip perk while they are at 50% health or less.
+- The Molag Bal's Unburdening spell now works on characters ragdolled by Incubus Arts or Knockout Arts regardless of their health
+- Added the following perks : 
+	- Athletics, Light Armor, increases movement speed by 10%/20% when not wearing heavy armor
+	- Marathon Runner, Light Armor, removes sprinting stamina costs out of combat when not wearing heavy armor
+	- Body Toss, Light Armor, reduces the stamina cost of yanking and foot yanking by 50/90%
+	- Foe Flinger, Light Armor, allows one-handed yank
+	- Antimagic Shell, Heavy Armor, increases Magic Resistance by 10/20/30% when wearing Heavy Armor
+	- Steel Fist, Heavy Armor, works basically like the Iron Fist unarmed perk from Light Armor but only when wearing heavy armor gauntlets
+	- Mighty Grip, Heavy Armor, grabbing a character under 60/140/250 Health while your weapons are unsheathed will ragdoll them
+	- Wrestler, available both in Heavy Armor and Light Armor (can't take both), ragdolled NPCs can be looted with the gravity glove even if they are above 50% health. Stamina cost for grabbing enemies is reduced by 70%.
+	- Whirlwind Shield, Block, can create a protective whirlwind for 2s by power attacking or bashing, like the spellsiphon weapon ward
+	- Leadership, Speech, allows you to recruit one/two extra followers without suffering an XP penalty
+- Modified the following perks : 
+	- Movement speed boost from the Windrunner Light Armor perk has been increased
+	- Movement speed boost from the Adrenaline Alchemy perk has been increased
+	- The Iron Fist Light Armor perk no longer works if you're wearing heavy armor gauntlets
+	- Pickpocket training now also increases the Lockpicking skill if it is lower than Pickpocket and you have the Pickpocket Mastery perk
+	- Lockpicking training now also increases the Pickpocket skill if it is lower than Lockpicking and you have the Lockpicking Mastery perk
+	- The Lockpicking Mastery perks now also grant extra Carrying Capacity
+	- The Robber's Eye Lockpicking perk now has a reduced maximum cooldown of 24hours
+	- The Dungeoneer Lockpicking perk now multiplies the Robber's Eye's duration by 5
+- Removed AddItemMenu
