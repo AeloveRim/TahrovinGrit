@@ -468,7 +468,7 @@ There are still a few things you can do to slightly increase performance :
 - Disable everything in the CS Resources section. However, if you are playing an existing game, do not disable Eld-beri.
 - Disable everything in the ReShade section
 - Activate VR FPS Stabilizer - Occlusion FPS boost
-- Reinstall Faster HDT-SMP and select AVX or AVX2 if your CPU supports it
+- Reinstall Faster HDT-SMP - VR XML and select AVX or AVX2 if your CPU supports it
 
 ## Loading takes too long!
 Shouldn't have put the modlist on a HDD - I did warn you earlier in this very readme.
