@@ -253,3 +253,26 @@ Initial release
 	- The Robber's Eye Lockpicking perk now has a reduced maximum cooldown of 24hours
 	- The Dungeoneer Lockpicking perk now multiplies the Robber's Eye's duration by 5
 - Removed AddItemMenu
+
+## Tahrovin Grit V1.41
+- Updated Balance Adjustments for Apocalypse - Vokriinator to v1.1
+- Updated Stable Hands to v1.11
+- Added Lock-related loot
+- Added Dawn of Skyrim - Whiterun Wolves Eye Fix
+- Added Disguise
+- Modified the Disguise perk in Speech so you can toggle the disguise ability on and off
+- Replaced the Lawless Times Vokrii pickpocket perk with a significantly boosted version of the Lawless World Ordinator perk
+- The effects of the Sneak Mastery perks have been slightly increased
+- Added Scrolls of Ethereal Instructor which summon a Master-level trainer. They can be bought from merchants or crafted at tanning racks
+- Adjusted Crime Gold Values
+- Added some missing Thaumaturgy Enchantments to Honed Metal
+- Increased the skill XP requirements for Pickpocket
+- Set fMagicCasterSkillCostMult﻿Vanilla back to vanilla value.
+- Changed shield-using bandit combat style to be a bit less defensive
+- Increased the Duck Velocity required to trigger a Physical Dodge
+- Added the Tahrovin lingerie book as a constructible at tanning racks if you lose it
+- Switched some Coco constructibles from the forge to the tanning rack
+- Fixed some floating paintings at the Bee and Barb tavern in Riften
+- Disabled skill affinity in the MCM Recorder for Nether's Follower Framework
+- Removed heavy armor from the looters in Forgotten City
+- Disabled Alternate Death in Clockwork and Forgotten City locations
