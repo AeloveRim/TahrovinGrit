@@ -264,6 +264,7 @@ Initial release
 - Replaced the Lawless Times Vokrii pickpocket perk with a significantly boosted version of the Lawless World Ordinator perk
 - The effects of the Sneak Mastery perks have been slightly increased
 - Fixed the prerequisites for the Extra Effect enchanting perk
+- Fixed the Archeologist lockpicking perk not working properly on most boss chests
 - Added Scrolls of Ethereal Instructor which summon a Master-level trainer. They can be bought from merchants or crafted at tanning racks
 - Adjusted Crime Gold Values
 - Added some missing Thaumaturgy Enchantments to Honed Metal
