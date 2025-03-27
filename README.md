@@ -308,7 +308,7 @@ Levels and skills have not been decoupled however. As explained earlier, you wil
 
 Skyrim's regular skill leveling is not gone, but is now much slower. Your skills start at 5. You may be able to progress through the lower levels of skill entirely on your own, but you will have a hard time going further without seeking training.
 
-At higher levels, you may have a hard time finding a sufficiently-skilled trainer. In that case, scrolls of the Ethereal Instructor are available at most merchants that sell scrolls. They are decently expensive but can be an alternative way to find proper training by summoning Master-level trainers.
+At higher levels, you may have a hard time finding a sufficiently-skilled trainer. In that case, scrolls of the Ethereal Instructor are sold by many merchants, and can be crafted at a tanning rack. They are fairly expensive but can be an alternative way to find proper training by summoning Master-level trainers.
 
 ## Crafting and Economy
 You may notice that the only crafting workstations you are able to use from the start are the Tanning Rack and the Smelter. Otherwise, you will need to increase your skills first. Smithing workstations require a smithing skill of 15. Alchemy and Enchanting workstations require their skill at 20.
