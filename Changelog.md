@@ -268,7 +268,7 @@ Initial release
 - Added Scrolls of Ethereal Instructor which summon a Master-level trainer. They can be bought from merchants or crafted at tanning racks
 - Adjusted Crime Gold Values
 - Added some missing Thaumaturgy Enchantments to Honed Metal
-- Increased the skill XP requirements for Pickpocket
+- Increased the skill XP requirements for increasing the Pickpocket skill
 - Set fMagicCasterSkillCostMult﻿Vanilla back to vanilla value.
 - Changed shield-using bandit combat style to be a bit less defensive
 - Increased the Duck Velocity required to trigger a Physical Dodge
