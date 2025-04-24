@@ -411,7 +411,7 @@ Besides that, a few quests have been added : [Amorous Adventures](https://www.lo
 ## The Extra Quests Profile
 When I play Skyrim, I usually like to load it up with a bunch of quests I haven't played before. When my playthrough is done, I'll remove the ones I stumbled upon and add a bunch of new ones for the next playthrough.
 
-Since I'm going to do that for myself anyway, I figured I might as well leave it in for the people who want a lot more quests around ! This profile is completely untested, I can't guarantee the extra quests are good, fit in well, or even if they work fine in VR. It *should* be okay, but who knows !
+Since I'm going to do that for myself anyway, I figured I might as well leave it in for the people who want a lot more quests around ! While I have personally played through all the modded quests in the main profile to ensure they work well and fit the Grit vision, the extra quests profile is completely untested. I can't guarantee the extra quests are good, fit in well, or even if they work fine in VR. It *should* be okay, and I will have done as much patching and research as possible without actually playing through the quests, but who knows !
 
 Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me on Discord and I'll see if I can make a patch.
 
