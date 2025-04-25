@@ -422,7 +422,7 @@ As I play through more quests, some will eventually be switched from the Extra Q
 Various perks have been modified from base Vokriinator or added. This is a listing so you know more or less what to expect.
 
 | Modified perk  | Skill | Description |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | All mastery perks  | All | Prerequisites are now 20/40 instead of 0/20  |
 | Adrenaline  | Alchemy 80 | Now increases movement speed by 15% instead of 10% |
 | Staff recharge  | Enchanting 40/70 | Prerequisite lowered to 40, added a second level at enchanting 70 that recharges 20 points per second |
@@ -432,7 +432,7 @@ Various perks have been modified from base Vokriinator or added. This is a listi
 | Sneak mastery  | Sneak 20/40 | Increases sneaking effectiveness by 20/40% instead of 15/30% |
 
 | New perk  | Skill | Description |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | Whirlwind shield | Block 40 | Power attack or Bash to create a whirlwind, reducing strike and arrow damage by 80% and negating spells for 2s. Getting hit within the first 0.4s will stagger the attacker. |
 | Mighty grip | Heavy Armor 20/60/100 | Grabbing a character under 60/140/250 Health while your weapons are unsheathed will ragdoll them. |
 | Antimagic shell | Heavy Armor 20/50/80 | If wearing all Heavy Armor, increases Magic Resistance by 10/20/30%. |
