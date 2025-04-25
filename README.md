@@ -446,6 +446,7 @@ Various perks have been modified from base Vokriinator or added. This is a listi
 | Foe flinger | Light armor 60 | You may yank others off their feet with only one hand. |
 | Leadership | Speech 20/40 | One/Two of your followers does not count towards XP penalties for having multiple followers. |
 | Disguise | Speech 20 | Grants the Disguise power. While enabled, can disguise as a member of various factions by donning that faction's gear while out of sight. You will lose bounties obtained while in disguise if you escape unrecognized.  |
+| Method actor | Speech 60/100 | You are 50/99% less likely to be discovered when disguised.  |
 | Sharp Eye | Sneak 30 | Grants the at-will powers "Spot Detection" which outlines humanoids within 150 feet detecting you for 30 seconds, and "Night Eye" which grants improved night vision for 120 seconds. |
 
 # FAQ & Common Issues
