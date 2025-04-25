@@ -428,7 +428,11 @@ Various perks have been modified from base Vokriinator or added. This is a listi
 | Staff recharge  | Enchanting 40/70 | Prerequisite lowered to 40, added a second level at enchanting 70 that recharges 20 points per second |
 | Iron Fist  | Light Armor 20 | Doesn't work while wearing heavy gauntlets |
 | As a leaf  | Light Armor 30 | Also unlocks double jump |
+| Windrunner  | Light Armor 50 | Now increases movement speed by 15% instead of 10% |
+| Lockpicking Mastery | Lockpicking 20/40 | Weaker/All locks are easier to pick and increases carry weight by 50/100 points. Receiving training in Lockpicking also increases the Pickpocket skill if it is lower. |
+| Pickpocket Mastery | Pickpocket 20/40 | Adds 20/40% to your pickpocket chance and increases carry weight by 50/100 points. Receiving training in Pickpocket also increases the Lockpicking skill if it is lower. | 
 | Lawless World  | Pickpocket 30 | Petty crimes are slowly forgotten, allowing your bounties for non-violent crimes to decay at a rate of 20% of your Pickpocket skill level each hour. |
+
 | Sneak mastery  | Sneak 20/40 | Increases sneaking effectiveness by 20/40% instead of 15/30% |
 
 | New perk  | Skill | Description |
