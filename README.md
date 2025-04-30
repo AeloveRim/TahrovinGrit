@@ -365,6 +365,8 @@ While followers may be a powerful asset, having too many of them may be detrimen
 - 3 followers : -20% EXP from quests, -70% EXP from exploring and clearing areas
 - 4+ followers : -30% EXP from quests, no EXP from exploring and clearing areas
 
+The Leadership speech perk will allow you to bring more followers without a penalty.
+
 Daegon has been removed but new followers have been added : [Misty Skye](https://www.nexusmods.com/skyrimspecialedition/mods/16374) and [M'rissi](https://www.nexusmods.com/skyrimspecialedition/mods/9666).
 
 ## Quests
