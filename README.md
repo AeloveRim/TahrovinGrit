@@ -447,7 +447,6 @@ Various perks have been modified from base Vokriinator or added. This is a listi
 | Wrestler | Heavy Armor/Light armor 40 | Characters ragdolled through yanking or Mighty Grip can be looted with the gravity glove even if they are above 50% health. Stamina cost for grabbing enemies is reduced by 70%. |
 | Body toss | Light armor 20/80 | Stamina cost of yanking and foot yanking is reduced by 50/90%. |
 | Athletics | Light armor 30/70 | Movement speed increased by 10/20% when not wearing Heavy Armor. |
-| Foe flinger | Light armor 60 | You may yank others off their feet with only one hand. |
 | Marathon runner | Light armor 40 | Sprinting doesn't cost any stamina when outside of combat if not wearing Heavy Armor. |
 | Foe flinger | Light armor 60 | You may yank others off their feet with only one hand. |
 | Leadership | Speech 20/40 | One/Two of your followers does not count towards XP penalties for having multiple followers. |
