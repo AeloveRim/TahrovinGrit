@@ -278,3 +278,43 @@ Initial release
 - Disabled skill affinity in the MCM Recorder for Nether's Follower Framework
 - Removed heavy armor from the looters in Forgotten City
 - Disabled Alternate Death in Clockwork and Forgotten City locations
+
+## Tahrovin Grit V1.50-beta1
+- Added Dragons use Thu'um
+- Added Dodgeable dragon breath 
+- Added Nff ignore tokens
+- Added Sun dispels night eye
+- Added Ordinator - Lawless World Fix
+- Added OnMagicEffectApply Replacer
+- Added optional Handicaps at chargen which lower xp of some skills in exchange for bonuses
+- Added FSR 3.1 as an option
+- Replaced 3BA Vanilla with Vanilla Outfits Redone
+- Removed mihail ghosts
+- Updated Remodeled Armors to v2.5.2
+- Updated Val Serano to v2.3.1
+- Updated KWF to 4.7.2a
+- Updated Weapon Throw to v1.3.20
+- Updated Spell Wheel to v1.5.6
+- updated Immersive Smithing to v1.0.5
+- Added Redcap to Extra Quests
+- Added Remiel to Extra Quests
+- Added Xelzaz to Extra Quests
+- Added Tempest isle to Extra Quests
+- Added Vigilant to Extra Quests
+- Added Dac0da to Extra Quests
+- Added Krein to Extra Quests
+- Added Olenveld to Extra Quests
+- Added Linked crafting storage. Using it requires Smithing 15, Alchemy 20 and Enchanting 20
+- You now lose XP on death if a nemesis is created (but much less than you'll recover from the nemesis quests)
+- Put chameleon and Ash rune spells back at the spell levels they belong in spellforge
+- You can now Make arcane resin out of soul extract
+- Bleak falls barrow is now back to a relatively easy difficulty.
+- The mirmulnir attack on the whiterun watchtower will not start unless you are at least level 7.
+- Even if you don't go through the main quest, dragons will now appear in the world starting at level 10.
+- Increased max number of days in jail to 40
+- Fixed the mirmulnir souls bug
+- Removed morenastycritters dragons from leveled lists
+- Ocomfort now only triggers on orgasm
+- Moved the Lorkhan crystal in vanilla start to the store room and removed it properly after helgen exit
+- Lowered prereqs for the Leadership speech perk
+- Added a second level for the Staff Recharge enchanting perk, weakened and lowered the requirements for the initial perk
