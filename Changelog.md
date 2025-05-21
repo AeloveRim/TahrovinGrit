@@ -295,7 +295,7 @@ Initial release
 - Updated KWF to 4.7.2a
 - Updated Weapon Throw to v1.3.20
 - Updated Spell Wheel to v1.5.6
-- updated Immersive Smithing to v1.0.5
+- Updated Immersive Smithing to v1.0.5
 - Added Redcap to Extra Quests
 - Added Remiel to Extra Quests
 - Added Xelzaz to Extra Quests
