@@ -307,7 +307,7 @@ Initial release
 - Added Linked crafting storage. Using it requires Smithing 15, Alchemy 20 and Enchanting 20
 - You now lose XP on death if a nemesis is created (but much less than you'll recover from the nemesis quests)
 - Put chameleon and Ash rune spells back at the spell levels they belong in spellforge
-- You can now Make arcane resin out of soul extract
+- You can now make arcane resin out of soul extract
 - Bleak falls barrow is now back to a relatively easy difficulty.
 - The mirmulnir attack on the whiterun watchtower will not start unless you are at least level 7.
 - Even if you don't go through the main quest, dragons will now appear in the world starting at level 10.
