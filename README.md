@@ -229,7 +229,7 @@ Sera the Trainer charges less gold for her training than most other trainers in 
 
 The Realm of Lorkhan will also allow you to select Handicaps if you wish. Each Handicapped skill grows roughly half as fast as a regular skill, but also grants you 2 specialization points. You may spend these specialization points to receive extra starting perk points, attribute points, or gold.
 
-<img width="290" height="243" alt="image" src="https://github.com/user-attachments/assets/a3ce2618-461f-46ce-811a-5be2303af5b5" />
+<img width="580" height="486" alt="image" src="https://github.com/user-attachments/assets/a3ce2618-461f-46ce-811a-5be2303af5b5" />
 
 Once you teleport at one of the crystals, you'll be dumped into Skyrim in the place you chose. Make your choices wisely though - once you leave, you cannot return.
 
