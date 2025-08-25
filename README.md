@@ -180,7 +180,9 @@ Before starting, you can make choices in the Optional sections of the list, colo
 -  Daedric Bitchs : Optional followers 
 -  Additemmenu : Lets you add items as you wish
 -  Strafing Nerf : Reduces your speed when going backwards or strafing to the side, making it a bit harder to avoid attacks and run circles around your enemies
+-  Subtitles VR : Allows you to have multiple subtitles displayed at once. Can get a bit janky, but useful when you have a lot of followers.
 
+ 
 # Mod Setup
 
 ### *THIS STEP IS IMPORTANT! IF YOU DO NOT DO THIS STEP, YOUR GAME WILL NOT FUNCTION CORRECTLY!*
@@ -190,6 +192,8 @@ When starting a new game, create your character and once done, *DO NOTHING ELSE*
 The MCM setup is *mostly* automated and will run on its own after you've finished character creation. As mentioned, *DO NOTHING* until the window pops-up telling you to save.
 
 When you are done, **save your game, go back to the main menu, then load that save** so the last few mods can load properly.
+
+Modifying the CBBE 3BA and/or HIMBO morphs in the racemenu during character creation is not recommended. Instead, after reloading your game, you should use the autobody shortcut (right thumbstick + down) to select a body preset for your character.
 
 That done, there are optional configuration changes you may wish to make in the Mod Configuration Menu :
 
@@ -292,14 +296,18 @@ You can throw humanoid enemies either by yanking them with both hands, or by yan
 
 All attacks, even basic ones, cost a bit of stamina depending on the type of weapon being used (less stamina for daggers, more for two-handed weapons, and even more for two-handed weapons wielded with one hand). When out of Stamina, you will be slower and deal significantly less damage. It might be better to pace yourself and focus on defense when you start running low - remember that a fast enough parry will also help you regain Stamina.
 
-[Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374) is present, but is meant to be used only with specific throwing weapons. These weapons are cheap, disposable and relatively weak in melee, but much more effective when thrown. They can be bought in shops or crafted.
+[Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374) is present, but by default can only be used only with specific throwing weapons. These weapons are cheap, disposable and relatively weak in melee, but much more effective when thrown. They can be bought in shops or crafted. You may eventually unlock the ability to throw and recall regular weapons with perks.
+
+Torches are fairly important as a warrior. Some areas will be too dark to fight in properly without a light source. The shortcut (left thumbstick + down) will drop one of your torches in front of you. You can grab it and walk around, and drop it at any time if you need your second hand, then pick it up when you're done. It will continue to illuminate the area while down on the ground. Make sure to bring plenty of spares as you may often lose track of them or forget to pick them up.
 
 Finally, you will no longer be able to do power attacks unless you are able to pay the full stamina cost.
 
 ## Playing a thief
 Pickpocketing and lockpicking are harder than usual if you're unskilled, but easier if you do raise your skills. [More NPC Pocket Money](https://www.nexusmods.com/skyrimspecialedition/mods/31375) adds a bit of extra gold to citizens for you to steal. [Lock-related Loot](https://www.nexusmods.com/skyrimspecialedition/mods/11342) makes sure that Expert-level chest whose lock you just picked doesn't contain three gold pieces and a sweetroll. [Broken picks](https://www.nexusmods.com/skyrimspecialedition/mods/95275) makes it so breaking your lockpick will throw you out of the lockpicking minigame and force you to start from scratch - make sure to check for patrolling guards ! [Mum's the word NG](https://www.nexusmods.com/skyrimspecialedition/mods/77409) ensures that low-value loot will no longer be flagged as stolen and can be sold anywhere. Even for the more valuable loot, you will no longer have to join the thieves' guild to sell it : anything recognizably stolen can now be sold at any Khajiit caravan.
 
-Some of the perk changes from the usual [Vokriinator](https://www.nexusmods.com/skyrimspecialedition/mods/26702) stuff will impact thieves. Most importantly, the Pickpocket and Lockpicking Mastery perks will now allow you to train both skills at once for the price of one. [Disguise](https://www.nexusmods.com/skyrimspecialedition/mods/133426) adds a series of Speech perk that allows you to disguise your identity and can be very useful to evade bounties or avoid getting them in the first place.
+Light is a very important factor when it comes to sneaking in Grit. You will probably want to grab Night Vision, either with the "Sharp Eye" sneak perk or through any other means. Sneaking around with a torch or a candlelight spell is generally a bad idea.
+
+Some of the perk changes from the usual [Vokriinator](https://www.nexusmods.com/skyrimspecialedition/mods/26702) stuff will impact thieves. Most importantly, the Pickpocket and Lockpicking Mastery perks will now allow you to train both skills at once for the price of one. [Disguise](https://www.nexusmods.com/skyrimspecialedition/mods/133426) adds a series of Speech perk that allows you to disguise your identity and can be very useful to evade bounties or avoid getting them in the first place. 
 
 ## Leveling
 Instead of increasing your level by raising your skills, the [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) mod lets you increase your level as you adventure, exploring Skyrim and accomplishing quests. The leveling curve has been modified to provide a slower-paced experience.
@@ -312,6 +320,8 @@ At higher levels, you may have a hard time finding a sufficiently-skilled traine
 
 ## Crafting and Economy
 You may notice that the only crafting workstations you are able to use from the start are the Tanning Rack and the Smelter. Otherwise, you will need to increase your skills first. Smithing workstations require a smithing skill of 15. Alchemy and Enchanting workstations require their skill at 20.
+
+If you ever obtain a home for your character, you may use Linked crafting Storage to make the process of crafting easier. By putting a Crafter's Link Stone along with as many ingredients and other crafting materials as you want in a container inside your player home, you may access them anytime and anywhere when using a related crafting station. This, however, will only function for containers inside a proper player home. You begin play with a Crafter's Link Stone but may create more at a smelter.
 
 Until you learn to craft for yourself, smiths and enchanters of skyrim can do the work for you thanks to Honed Metal. Tempering services are the cheapest ones, crafting services are in the middle, and enchanting services are fairly expensive. Prices will of course depend on the equipment being tempered/crafted, but also on the artisan - the more skilled they are, the more gold they'll ask for. There will be a noticeable bump in prices for even cheaper item when the artisan reaches a skill of 40 and again at 79. If you ask Eorlund Gray-Mane to craft an iron dagger, it's going to cost you a lot more than asking Adrianne Avenicci.
 
@@ -348,9 +358,9 @@ New random overworld encounters have been added through [Extended Encounters](ht
 [Dragon Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/56082) makes dragons smarter and grants them powerful new abilities. Their attacks are also generally stronger, and they have extra resistance to attacks that do not come directly from you.
 
 ## Death
-[Shadow of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/65136) means death is not the end. Upon defeat, you will generally be assaulted by the victor in a Sexlab Scene. In most cases they will become your Nemesis and grow in power. Meanwhile, you will receive a penalty : either (100*your level) in gold, or a dragon soul if you don't have the gold, or one or more permanent points of health (depending on your level) if you don't have the soul either (note that you will be able to regain permanent health points through CBPC VRSex). You will also receive a situational or random debuff.
+[Shadow of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/65136) means death is not the end. Upon defeat, you will generally be assaulted by the victor in a Sexlab Scene. In most cases they will become your Nemesis and grow in power. Meanwhile, you will receive a penalty : either (100*your level) in gold, or a dragon soul if you don't have the gold, or one or more permanent points of health (depending on your level) if you don't have the soul either (note that you will be able to regain permanent health points through CBPC VRSex). You will also receive a situational or random debuff and lose some experience.
 
-It's not all bad however - going back and defeating your Nemesis will not only grant you some experience, but it will also transform that debuff into a related permanent buff, up to a total maximum of 5 buffs and debuffs from this mod.
+It's not all bad however - going back and defeating your Nemesis will not only grant you more experience than you'd initially lost, but it will also transform that debuff into a related permanent buff, up to a total maximum of 5 buffs and debuffs from this mod.
 
 Note that if your followers are still fighting when you are defeated, they will have a 60-second grace period where they can still save you. If they manage to finish the fight during that period, you will not suffer any penalties.
 
@@ -367,14 +377,14 @@ While followers may be a powerful asset, having too many of them may be detrimen
 
 The Leadership speech perk will allow you to bring more followers without a penalty.
 
-Daegon has been removed but new followers have been added : [Misty Skye](https://www.nexusmods.com/skyrimspecialedition/mods/16374) and [M'rissi](https://www.nexusmods.com/skyrimspecialedition/mods/9666).
+Daegon has been removed but new followers have been added : [Misty Skye](https://www.nexusmods.com/skyrimspecialedition/mods/16374), [M'rissi](https://www.nexusmods.com/skyrimspecialedition/mods/9666), [Remiel](https://www.nexusmods.com/skyrimspecialedition/mods/51874) and [Xelzaz](https://www.nexusmods.com/skyrimspecialedition/mods/62893).
 
 ## Quests
-The encounter zones for the main quest, starting from Bleak Falls Barrow, have been increased. I would not recommend trying to get through it at level 1. The reason for this is that going through the main quest would unlock dragons, and you do *not* want to fight a dragon at level 1 in this list. On the other hand, who knows - if you can manage to get through Bleak Falls Barrow even at a low level, maybe you'll be able to handle yourself against a dragon just fine.
+The main quest has been delayed so that after completing Bleak Falls Barrow you will need to wait a few days and be at least level 7 before you are asked to deal with the first dragon at the watchtower. The reason for this is that this unlocks dragons, and you would *not* want to fight a dragon at level 1 in this list. On the other hand, even if you choose not to go through with the main quest at all, dragons will still start appearing in the world starting at level 10.
 
-Delaying the main quest doesn't mean Alduin will stay put forever. After 90 days, if you haven't finished the main quest, Alduin will come seeking to destroy you. This will be an easier fight than the actual, full-powered Alduin you will have to fight in the main quest, but you should still make sure you have grown strong enough to fend him off. Once you do, you will have 20 more days before he seeks you out again. Take care and don't slack off on your training : every time he comes back, Alduin will be even more powerful !
+Delaying the main quest doesn't mean Alduin will stay put forever either. After 90 days, if you haven't finished the main quest, Alduin will come seeking to destroy you. This will be an easier fight than the actual, full-powered Alduin you will have to fight in the main quest, but you should still make sure you have grown strong enough to fend him off. Once you do, you will have 20 more days before he seeks you out again. Take care and don't slack off on your training : every time he comes back, Alduin will be even more powerful !
 
-Besides that, a few quests have been added : [Amorous Adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/) (with the player text revision), [The forgotten city](https://www.nexusmods.com/skyrimspecialedition/mods/1179), [The chain of time](https://www.nexusmods.com/skyrimspecialedition/mods/95062), [Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120), [Fortune's Tradehouse](https://www.nexusmods.com/skyrimspecialedition/mods/22755), [The shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167), [Meridia's Order](https://www.nexusmods.com/skyrimspecialedition/mods/102584), [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634), and many of [jayserpa's vanilla quest expansions](https://www.nexusmods.com/skyrimspecialedition/users/5201727) have been integrated.
+Besides that, a few quests have been added : [Amorous Adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/) (with the player text revision), [The forgotten city](https://www.nexusmods.com/skyrimspecialedition/mods/1179), [The chain of time](https://www.nexusmods.com/skyrimspecialedition/mods/95062), [Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120), [Fortune's Tradehouse](https://www.nexusmods.com/skyrimspecialedition/mods/22755), [The shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167), [Meridia's Order](https://www.nexusmods.com/skyrimspecialedition/mods/102584), [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634), [DAc0da](https://www.nexusmods.com/skyrimspecialedition/mods/134405), and many of [jayserpa's vanilla quest expansions](https://www.nexusmods.com/skyrimspecialedition/users/5201727) have been integrated.
 
 ## Other changes
 - [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) is the standing stone overhaul
