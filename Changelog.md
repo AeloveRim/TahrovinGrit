@@ -279,34 +279,67 @@ Initial release
 - Removed heavy armor from the looters in Forgotten City
 - Disabled Alternate Death in Clockwork and Forgotten City locations
 
-## Tahrovin Grit V1.50-beta1
-- Added Dragons use Thu'um
+## Tahrovin Grit V1.50
 - Added Dodgeable dragon breath 
 - Added Nff ignore tokens
 - Added Sun dispels night eye
 - Added Ordinator - Lawless World Fix
+- Added Subtitles VR as an optional mod
+- Added Midwood Isle Black Book fix
+- Added Simple Drop Lit Torches SE
+- Added new RacemenuVR
+- Added Ocum Ascended
+- Added Ordinator Real Autocannon
+- Added Remiel
+- Added Xelzaz
+- Added Dac0da
+- Added Dac0da Elevenlabs voiced
+- Added Dac0da Lightsabers VR Fix
 - Added OnMagicEffectApply Replacer
+- Added Dragons use Thu'um (voices only, not plugin)
+- Added some of Miggyluv's racemenu presets
+- Added Blocking Blocks Poison Diseases and Enchantments - Synthesis Patcher
+- Added optional file that limits bodyslide presets for most NPCs but distributes thiccer ones for specific NPCs
 - Added optional Handicaps at chargen which lower xp of some skills in exchange for bonuses
 - Added FSR 3.1 as an option
 - Replaced 3BA Vanilla with Vanilla Outfits Redone
 - Removed mihail ghosts
+- Removed Eld-Beri II
+- Removed Simply Balanced
 - Updated Remodeled Armors to v2.5.2
 - Updated Val Serano to v2.3.1
 - Updated KWF to 4.7.2a
 - Updated Weapon Throw to v1.3.20
 - Updated Spell Wheel to v1.5.6
 - Updated Immersive Smithing to v1.0.5
+- Updated Steeds of Ultima to v1.1.1
 - Added Redcap to Extra Quests
-- Added Remiel to Extra Quests
-- Added Xelzaz to Extra Quests
 - Added Tempest isle to Extra Quests
 - Added Vigilant to Extra Quests
-- Added Dac0da to Extra Quests
 - Added Krein to Extra Quests
 - Added Olenveld to Extra Quests
-- Added Linked crafting storage. Using it requires Smithing 15, Alchemy 20 and Enchanting 20
+- Added Olenveld VR Fix
+- Added Linked crafting storage. It is limited to containers inside player homes.
+- Added new perks : Light weapon throw, heavy weapon throw, tireless march
+- Soul siphon enchanting perk now works on all killing blows and absorbs 15%
+- Removed "Focus on the prey" archery perk (it was useless in VR)
+- Replaced Vokrii's Berserker Two-handed perk with Ordinator's Staggering impact (it was useless in VR)
+- Lowered prereqs for the Leadership speech perk
+- Added a second level for the Staff Recharge enchanting perk, weakened and lowered the requirements for the initial perk
 - You now lose XP on death if a nemesis is created (but much less than you'll recover from the nemesis quests)
 - Put chameleon and Ash rune spells back at the spell levels they belong in spellforge
+- The Giant Stomp effect from Shadows of Skyrim no longer costs stamina, but is only usable every 10 seconds
+- The Armor of Thorns effect from Shadows of Skyrim no longer breaks brawls
+- Left thumbstick + down now drops a lit torch on the ground
+- Fixed CBPC VRSex - Sexlab Solutions override not advancing some quest stages
+- Fixed initial relationship with Ysolda
+- Removed all remaining killcams involving the player
+- Freed prisoners from Extended Encounters will now be friendlier
+- Fixed ice claws not having a sunhelm food category
+- Fixed the Waking Dreams black book which wasn't compatible with vokriinator
+- Sil Gahrot chance increased to 50%
+- Sil Gahrot no longer requires unlocking the Fus shout
+- Throwing axes no longer cause stagger but have slightly increased damage
 - You can now make arcane resin out of soul extract
 - Bleak falls barrow is now back to a relatively easy difficulty.
 - The mirmulnir attack on the whiterun watchtower will not start unless you are at least level 7.
@@ -316,5 +349,3 @@ Initial release
 - Removed morenastycritters dragons from leveled lists
 - Ocomfort now only triggers on orgasm
 - Moved the Lorkhan crystal in vanilla start to the store room and removed it properly after helgen exit
-- Lowered prereqs for the Leadership speech perk
-- Added a second level for the Staff Recharge enchanting perk, weakened and lowered the requirements for the initial perk
