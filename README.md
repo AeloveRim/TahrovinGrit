@@ -195,7 +195,7 @@ The MCM setup is *mostly* automated and will run on its own after you've finishe
 
 When you are done, **save your game, go back to the main menu, then load that save** so the last few mods can load properly.
 
-Modifying the CBBE 3BA and/or HIMBO morphs in the racemenu during character creation is not recommended. Instead, after reloading your game, you should use the autobody shortcut (right thumbstick + down) to select a body preset for your character.
+Modifying the CBBE 3BA and/or HIMBO morphs in the racemenu during character creation is not recommended. Instead, after reloading your game, you should use the autobody shortcut (right thumbstick + controller down) to select a body preset for your character.
 
 That done, there are optional configuration changes you may wish to make in the Mod Configuration Menu :
 
@@ -309,7 +309,7 @@ All attacks, even basic ones, cost a bit of stamina depending on the type of wea
 
 [Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374) is present, but by default can only be used only with specific throwing weapons. These weapons are cheap, disposable and relatively weak in melee, but much more effective when thrown. They can be bought in shops or crafted. You may eventually unlock the ability to throw and recall regular weapons with perks.
 
-Torches are fairly important as a warrior. Some areas will be too dark to fight in properly without a light source. The shortcut (left thumbstick + down) will drop one of your torches in front of you. You can grab it and walk around, and drop it at any time if you need your second hand, then pick it up when you're done. It will continue to illuminate the area while down on the ground. Make sure to bring plenty of spares as you may often lose track of them or forget to pick them up.
+Torches are fairly important as a warrior. Some areas will be too dark to fight in properly without a light source. The shortcut (left thumbstick + controller down) will drop one of your torches in front of you. You can grab it and walk around, and drop it at any time if you need your second hand, then pick it up when you're done. It will continue to illuminate the area while down on the ground. Make sure to bring plenty of spares as you may often lose track of them or forget to pick them up.
 
 Finally, you will no longer be able to do power attacks unless you are able to pay the full stamina cost.
 
