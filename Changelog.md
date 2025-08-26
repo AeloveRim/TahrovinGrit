@@ -287,6 +287,7 @@ Initial release
 - Added Subtitles VR as an optional mod
 - Added Midwood Isle Black Book fix
 - Added Simple Drop Lit Torches SE
+- Added Enchantment Tomes
 - Added new RacemenuVR
 - Added Ocum Ascended
 - Added Ordinator Real Autocannon
