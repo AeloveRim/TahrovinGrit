@@ -205,6 +205,9 @@ That done, there are optional configuration changes you may wish to make in the 
 ![SexlabMCM](img/DisableCreatures.jpeg)
 - Sexlab Romance will give you [Romance] dialog prompts to attempt to seduce any NPC by default. If you would like to limit this, disable the "Enable Dialogue for Male NPCs" and/or "Enable Dialogue for Female NPCs" options in the Sexlab Romance MCM.
 ![SexlabRomanceMCM](img/Romance.jpg)
+- The Imaginator MCM will allow you to adjust your game's visual settings to your liking.<img width="1483" height="794" alt="image" src="https://github.com/user-attachments/assets/9b6f85d1-0312-4417-8741-78521328f5b8" />
+
+
 
 ## Controller Bindings
 [Controller bindings can be found here](ControllerBindings.md)
