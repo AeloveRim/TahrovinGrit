@@ -351,3 +351,8 @@ Initial release
 - Removed morenastycritters dragons from leveled lists
 - Ocomfort now only triggers on orgasm
 - Moved the Lorkhan crystal in vanilla start to the store room and removed it properly after helgen exit
+
+  
+## Tahrovin Grit V1.51
+- Recompiled the list because wabbajack install didn't work for some people
+- Updated VR Address Library to v0.190.0
