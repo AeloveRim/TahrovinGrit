@@ -184,7 +184,30 @@ Before starting, you can make choices in the Optional sections of the list, colo
 -  Strafing Nerf : Reduces your speed when going backwards or strafing to the side, making it a bit harder to avoid attacks and run circles around your enemies
 -  Subtitles VR : Allows you to have multiple subtitles displayed at once. Can get a bit janky, but useful when you have a lot of followers.
 
- 
+
+### Block and parry settings
+Pick only one of the options given. 
+Vanilla blocking will let you block by placing your weapon and/or shield at a certain angle. This can also be annoying if you block without meaning to, since it will slow you down and stop your stamina regeneration.
+Pseudo-physical parrying will parry by intercepting the enemy's weapon, and block with shields by pressing the trigger (and having the shield not too far from the enemy's weapon).
+If you have enabled Vanilla blocking but it doesn't work properly, check Documents\My Games\Skyrim VR for the SkyrimCustom.ini file and delete it.
+
+### Body presets
+Pick only one of the options given.
+Fantasy body presets will allow most NPCs to have any preset. Some NPCs will have presets specifically assigned to them however.
+
+Limited body presets will limit most NPCs to a handful of slightly more grounded body presets, but specific NPCs will still have presets with more impressive proportions assigned. So while some random guard won't be walking around with the biggest pair in skyrim, you might just find that at the temple of dibella.
+
+### Music replacement
+- "Unique Battle Music" and "Combat Music Fix NG - Unique Battle Music Patch" : Replaces the combat music. Different tracks are used for different types of monsters (animals, undead, bandits, etc). Bosses have separate tracks. Special bosses have their own unique tracks.
+- "Music Type Distributor" and "Personal Music Framework" : Allows you to add any Personal Music Framework compatible music replacer. There are none included in the list.
+- "PMF - Personalized Music Patch" : Requires Music Type Distributor and Personal Music Framework. Allows you to add any Personalized Music compatible music replacer.
+- "Emeratu" and related mods : A Personalized Music compatible music replacer. Requires Music Type Distributor,  Personal Music Framework and PMF - Personalized Music Patch.
+- PMF - Personalized Music Combat - Incompatible with UBM : Replaces the combat music as well with the one from your Personalized Music compatible music replacer. Takes precedence over Unique Battle Music, use one or the other.
+
+In short, if you want unique combat tracks and new tracks for everything else, activate everything except "PMF - Personalized Music Combat - Incompatible with UBM". Feel free to leave the plugins at the bottom, they won't conflict with anything else. 
+
+Feel free to use any music replacer instead of Emeratu. As long as it is compatible with Personalized Music or Personal Music Replacer, it should work with no conflicts at all.
+
 # Mod Setup
 
 ### *THIS STEP IS IMPORTANT! IF YOU DO NOT DO THIS STEP, YOUR GAME WILL NOT FUNCTION CORRECTLY!*
@@ -230,7 +253,14 @@ The training system offered by Sera the Trainer is available throughout all of S
 
 Sera the Trainer charges less gold for her training than most other trainers in Skyrim. Don't skip out on the opportunity to raise some of your skills here, but consider keeping at least a little bit of gold for later.
 
-The Realm of Lorkhan will also allow you to select Handicaps that will further define your character if you wish. Each Handicapped skill permanently grows roughly half as fast as a regular skill, but also grants you 2 specialization points. You may spend these specialization points to receive extra starting perk points, attribute points, or gold.
+The Realm of Lorkhan will also allow you to select Handicaps that will further define your character if you wish. Each Handicapped skill permanently grows roughly half as fast as a regular skill, but also grants you 2 specialization points, up to a maximum of 12. You may spend these specialization points to receive various bonuses. Prices are as follows : 
+- +1 perk point : 5 Specialization Point
+- +5 attribute points (Health, Stamina or Magicka) : 1 Specialization Point
+- +2500 Gold : 1 Specialization Point
+- Learn a random Dragon Shout : 3 Specialization Points
+- Become a Vampire : 1 Specialization Point
+- Become a Vampire lord : 12 Specialization points
+- Become a Werewolf : 12 Specialization points
 
 <img width="580" height="486" alt="image" src="https://github.com/user-attachments/assets/a3ce2618-461f-46ce-811a-5be2303af5b5" />
 
@@ -447,8 +477,9 @@ Various perks have been modified from base Vokriinator or added. This is a listi
 | Modified perk  | Skill | Description |
 | ------------- | ------------- | ------------- |
 | All mastery perks  | All | Prerequisites are now 20/40 instead of 0/20  |
+| Experimenter  | Alchemy 30 | Also grants the  "Harvest Ingredients" spell to gather ingredients in an area |
 | Adrenaline  | Alchemy 80 | Now increases movement speed by 15% instead of 10% |
-| Soul siphon  | Enchanting 20 | Now traps 15% of the victim's soul instead of 5% and works on all killing blows. |
+| Soul siphon  | Enchanting 20 | Now traps 15% of the victim's soul instead of 5% and works on all killing blows |
 | Staff recharge  | Enchanting 40/70 | Prerequisite lowered to 40, added a second level at enchanting 70 that recharges 20 points per second |
 | Iron Fist  | Light Armor 20 | Doesn't work while wearing heavy gauntlets |
 | As a leaf  | Light Armor 30 | Also unlocks double jump |
