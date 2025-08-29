@@ -186,16 +186,16 @@ Before starting, you can make choices in the Optional sections of the list, colo
 
 
 ### Block and parry settings
-Pick only one of the options given. 
-Vanilla blocking will let you block by placing your weapon and/or shield at a certain angle. This can also be annoying if you block without meaning to, since it will slow you down and stop your stamina regeneration.
-Pseudo-physical parrying will parry by intercepting the enemy's weapon, and block with shields by pressing the trigger (and having the shield not too far from the enemy's weapon).
+Pick only one of the options given.
+- Vanilla blocking will let you block by placing your weapon and/or shield at a certain angle. This can also be annoying if you block without meaning to, since it will slow you down and stop your stamina regeneration.
+- Pseudo-physical parrying will parry by intercepting the enemy's weapon, and block with shields by pressing the trigger (and having the shield not too far from the enemy's weapon).
+
 If you have enabled Vanilla blocking but it doesn't work properly, check Documents\My Games\Skyrim VR for the SkyrimCustom.ini file and delete it.
 
 ### Body presets
 Pick only one of the options given.
-Fantasy body presets will allow most NPCs to have any preset. Some NPCs will have presets specifically assigned to them however.
-
-Limited body presets will limit most NPCs to a handful of slightly more grounded body presets, but specific NPCs will still have presets with more impressive proportions assigned. So while some random guard won't be walking around with the biggest pair in skyrim, you might just find that at the temple of dibella.
+- Fantasy body presets will allow most NPCs to have any preset. Some NPCs will have presets specifically assigned to them however.
+- Limited body presets will limit most NPCs to a handful of slightly more grounded body presets, but specific NPCs will still have presets with more impressive proportions assigned. So while some random guard won't be walking around with the biggest pair in skyrim, you might just find that at the temple of dibella.
 
 ### Music replacement
 - "Unique Battle Music" and "Combat Music Fix NG - Unique Battle Music Patch" : Replaces the combat music. Different tracks are used for different types of monsters (animals, undead, bandits, etc). Bosses have separate tracks. Special bosses have their own unique tracks.
