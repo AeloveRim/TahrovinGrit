@@ -356,3 +356,19 @@ Initial release
 ## Tahrovin Grit V1.51
 - Recompiled the list because wabbajack install didn't work for some people
 - Updated VR Address Library to v0.190.0
+
+## Tahrovin Grit V1.52
+- Added Music Type Distributor
+- Added Personal Music Framework
+- Added PMF - Personalized Music Patch
+- Added Unique Battle Music
+- Added Combat Music Fix NG Updated
+- Added Combat Music Fix NG - Unique Battle Music Patch
+- Added Emeratu
+- Added Elemental Fury VR
+- Added Sacrilege - Vampire Lord VR Fix
+- Boosted Vampire's Shroud's duration since this apparently wasn't actually done in v1.40
+- Modified alchemy Experimenter perk to also grant Harvest Ingredients spell
+- Reduced clothed CBPC jiggle
+- Added new options for specialization points at chargen : Learn random dragon shouts, Become a vampire, werewolf or vampire lord
+- Removed a bunch of configuration spells/powers that were added at chargen
