@@ -194,8 +194,8 @@ If you have enabled Vanilla blocking but it doesn't work properly, check Documen
 
 ### Body presets
 Pick only one of the options given.
-- Fantasy body presets will allow most NPCs to have any preset. Some NPCs will have presets specifically assigned to them however.
 - Limited body presets will limit most NPCs to a handful of slightly more grounded body presets, but specific NPCs will still have presets with more impressive proportions assigned. So while some random guard won't be walking around with the biggest pair in skyrim, you might just find that at the temple of dibella.
+- Fantasy body presets will allow most NPCs to have any body type preset, including those with impressive proportions. Some NPCs will still have presets specifically assigned to them however.
 
 ### Music replacement
 - "Unique Battle Music" and "Combat Music Fix NG - Unique Battle Music Patch" : Replaces the combat music. Different tracks are used for different types of monsters (animals, undead, bandits, etc). Bosses have separate tracks. Special bosses have their own unique tracks.
