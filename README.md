@@ -386,7 +386,7 @@ If you have enough firewood in your inventory, you can use it by selecting it in
 
 Fast travel is disabled, but can still be employed through one-shot scrolls of Rapid Transportation, available at general vendors, court wizards, and generally any merchant that would sell soulgems. These scrolls can also be crafted by converting common soulgems at a Tanning Rack. Using this method regularly can be expensive until late game though - until then, there are now more carriage routes available thanks to [Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379). 
 
-Consider buying a horse when able, but take care not to get them killed. A horse will also be useful to carry more things : Thanks to [Horse Storage](https://www.nexusmods.com/skyrimspecialedition/mods/3838) you can access your horse's inventory by sneaking while activating them. You can also call your horse at any time while you are outside with the [Call your Horse](https://www.nexusmods.com/skyrimspecialedition/mods/49595) power.
+Consider buying a horse when able. A horse will also be useful to carry more things : Thanks to [Horse Storage](https://www.nexusmods.com/skyrimspecialedition/mods/3838) you can access your horse's inventory by sneaking while activating them. You can also call your horse at any time while you are outside with the [Call your Horse](https://www.nexusmods.com/skyrimspecialedition/mods/49595) power.
 
 Animals will drop a little bit more loot, and their pelts are now a bit more valuable. It will not necessarily always be better to turn it all into leather. 
 
