@@ -372,3 +372,15 @@ Initial release
 - Reduced clothed CBPC jiggle
 - Added new options for specialization points at chargen : Learn random dragon shouts, Become a vampire, werewolf or vampire lord
 - Removed a bunch of configuration spells/powers that were added at chargen
+
+## Tahrovin Grit V1.60-beta
+- Removed NordwarUA mods
+- Added Semi-Open Guard Helmets SE
+- Removed some starting options for specialization points
+- Modified Training gold configuration slightly so lower levels are a bit cheaper
+- Modified Missives configuration slightly
+- Increased Speech skill prerequisites for the bard perks Irresistible Dance, Encore, Golden Fiddle, and Lord of the Dance
+- Added Dragon Blood Speech perk which grants random words of power
+- Added four new Triple Triad Speech perks : Time to Duel, Shadow Realm, Screw the Rules and Duel The Monsters
+- Moved the Disguise perks from Speech to Pickpocket
+- Removed Payday and Conspicuous Wealth Pickpocket perks. They were trap options that mostly didn't do anything
