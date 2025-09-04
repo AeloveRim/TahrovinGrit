@@ -434,7 +434,7 @@ Besides that, a few quests have been added : [Amorous Adventures](https://www.lo
 - [Quickloot VR](https://www.nexusmods.com/skyrimspecialedition/mods/102094) reduces the amount of menus
 - [Reading is good](https://www.nexusmods.com/skyrimspecialedition/mods/42026) means you no longer need to hold on to these skill books forever
 - [Voiced books of skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/94436) means you can pop an audiobook while traveling.
-- [Onyx Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/36227) replaces the weather mod, with much brighter nights. If that's not enough, I've added a lantern from Eld-beri II to your inventory.
+- [Onyx Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/36227) replaces the weather mod, with much brighter nights.
 - [Skyshards](https://www.nexusmods.com/skyrimspecialedition/mods/60748) adds mysterious stones for you to hunt down throughout skyrim. Every 3 shards absorbed will grant an experience reward - small at first, but which will get larger every time. Every 15 shards absorbed will grant an extra perk.
 
 ## Gameplay advice
@@ -559,7 +559,7 @@ This will probably happen if you ignored the minimum specifications I wrote near
 There are still a few things you can do to slightly increase performance : 
 - Switch from SteamVR to OpenComposite
 - Switch from Skyrim Upscaler VR - DLAA to either Skyrim Upscaler VR - DLSS if your GPU allows it, or Skyrim Upscaler VR - FSR 
-- Disable everything in the CS Resources section. However, if you are playing an existing game, do not disable Eld-beri.
+- Disable everything in the CS Resources section.
 - Disable everything in the ReShade section
 - Activate VR FPS Stabilizer - Occlusion FPS boost
 - Reinstall Faster HDT-SMP - VR XML and select AVX or AVX2 if your CPU supports it
