@@ -382,5 +382,6 @@ Initial release
 - Increased Speech skill prerequisites for the bard perks Irresistible Dance, Encore, Golden Fiddle, and Lord of the Dance
 - Added Dragon Blood Speech perk which grants random words of power
 - Added four new Triple Triad Speech perks : Time to Duel, Shadow Realm, Screw the Rules and Duel The Monsters
+- Tweaked Triple Triad scripts to prevent some bugs
 - Moved the Disguise perks from Speech to Pickpocket
 - Removed Payday and Conspicuous Wealth Pickpocket perks. They were trap options that mostly didn't do anything
