@@ -385,3 +385,4 @@ Initial release
 - Tweaked Triple Triad scripts to prevent some bugs
 - Moved the Disguise perks from Speech to Pickpocket
 - Removed Payday and Conspicuous Wealth Pickpocket perks. They were trap options that mostly didn't do anything
+- Modified Thief's eye Pickpocket perk now occurs every 12-24h
